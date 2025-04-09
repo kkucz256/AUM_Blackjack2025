@@ -34,6 +34,9 @@ def blackjack():
 
     # Player's turn
     while hand_value(player_hand) < 21:
+        if len(player_hand) == 5:
+            print("🎉 Player drew 5 cards without busting! Player wins (5-Card Charlie)!")
+            return
         move = input("Hit or Stand? (h/s): ").lower()
         if move == 'h':
             player_hand.append(draw_card())
@@ -48,6 +51,11 @@ def blackjack():
         print("Player busts! Dealer wins.")
         return
 
+    if len(player_hand) == 5:
+        print("🎉 Player drew 5 cards without busting! Player wins (5-Card Charlie)!")
+        return
+
+    # Dealer's turn
     display_hand("Dealer", dealer_hand)
     while hand_value(dealer_hand) < 17:
         dealer_hand.append(draw_card())
@@ -63,6 +71,6 @@ def blackjack():
         print("Player wins!")
     else:
         print("It's a tie!")
-        
+
 if __name__ == "__main__":
     blackjack()
