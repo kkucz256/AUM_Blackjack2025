@@ -1,68 +1,68 @@
 import random
 
-CARDS = {
-    'ACE': 1,
-    'TWO': 2,
-    'THREE': 3,
-    'FOUR': 4,
-    'FIVE': 5,
-    'SIX': 6,
-    'SEVEN': 7,
-    'EIGHT': 8,
-    'NINE': 9,
-    'TEN': 10,
-    'JACK': 10,
-    'QUEEN': 10,
-    'KING': 10 
-    }
+cards = {
+    '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9, '10': 10,
+    'J': 10, 'Q': 10, 'K': 10, 'A': 11
+}
+deck = list(cards.keys()) * 4
 
-class Blackjack():
-    def __init__(self):
-        self.deck = []
-        for key in CARDS:
-            for _ in range(0,4):
-                self.deck.append((key, CARDS[key]))
-        
-        self.player_cards = []
-        self.dealer_cards = []
-        
-    def shuffleCards(self):
-        random.shuffle(self.deck) 
-        
-    def dealCardToPlayer(self):
-        self.player_cards.append(self.deck.pop())    
-    
-    def dealCardToDealer(self):
-        self.dealer_cards.append(self.deck.pop())
-        
-    def drawWinner(self, player_value, dealer_value):
-        if player_value > 21:
-            return 'd'
-        elif dealer_value > 21:
-            return 'p'
-        elif dealer_value > player_value:
-            return 'd'
-        elif player_value > dealer_value:
-            return 'p'
+def draw_card():
+    return random.choice(deck)
+
+def hand_value(hand):
+    value = sum(cards[card] for card in hand)
+    aces = hand.count('A')
+    while value > 21 and aces:
+        value -= 10
+        aces -= 1
+    return value
+
+def display_hand(name, hand, hide_first=False):
+    if hide_first:
+        print(f"{name}'s Hand: ['?', '{hand[1]}']")
+    else:
+        print(f"{name}'s Hand: {hand} -> {hand_value(hand)}")
+
+def blackjack():
+    print("=== Welcome to Blackjack ===")
+    player_hand = [draw_card(), draw_card()]
+    dealer_hand = [draw_card(), draw_card()]
+
+    # Initial hands
+    display_hand("Dealer", dealer_hand, hide_first=True)
+    display_hand("Player", player_hand)
+
+    # Player's turn
+    while hand_value(player_hand) < 21:
+        move = input("Hit or Stand? (h/s): ").lower()
+        if move == 'h':
+            player_hand.append(draw_card())
+            display_hand("Player", player_hand)
+        elif move == 's':
+            break
         else:
-            return 't'
-          
-    def totalHandValue(self, hand):
-        total_value = 0
-        aces = 0
+            print("Invalid input, type 'h' or 's'.")
+
+    player_score = hand_value(player_hand)
+    if player_score > 21:
+        print("Player busts! Dealer wins.")
+        return
+
+    display_hand("Dealer", dealer_hand)
+    while hand_value(dealer_hand) < 17:
+        dealer_hand.append(draw_card())
+        display_hand("Dealer", dealer_hand)
+
+    dealer_score = hand_value(dealer_hand)
+
+    if dealer_score > 21:
+        print("Dealer busts! Player wins.")
+    elif dealer_score > player_score:
+        print("Dealer wins.")
+    elif dealer_score < player_score:
+        print("Player wins!")
+    else:
+        print("It's a tie!")
         
-        for card in hand:
-            if card[0] == 'ACE':
-                aces += 1
-                total_value += 1
-            else:
-                total_value += card[1]  
-                
-        while aces > 0 and total_value + 10 <= 21:
-            total_value += 10
-            aces -= 1
-            
-        # print(total_value) 
-            
-        return total_value
-    
+if __name__ == "__main__":
+    blackjack()
