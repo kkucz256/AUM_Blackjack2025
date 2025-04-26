@@ -5,7 +5,7 @@ import os
 import re
 from collections import Counter
 
-model = YOLO("content/best_11_04.pt")
+model = YOLO("content/best_12_04.pt")
 
 last_seen_cards = set()
 detected_time = None
