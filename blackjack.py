@@ -5,6 +5,10 @@ cards = {
     'J': 10, 'Q': 10, 'K': 10, 'A': 11
 }
 
+def extract_rank(card_with_suit):
+    """Extract only the rank part from a card string like '8h' -> '8', 'Qs' -> 'Q'."""
+    return ''.join(filter(str.isdigit, card_with_suit)) or card_with_suit[0].upper()
+
 def hand_value(hand):
     value = sum(cards.get(card.upper(), 0) for card in hand)
     aces = hand.count('A')
@@ -22,8 +26,11 @@ def read_hands_from_file():
             lines = f.readlines()
             dealer_line = next((line for line in lines if line.startswith("D:")), "D:").strip()
             player_line = next((line for line in lines if line.startswith("P:")), "P:").strip()
-            dealer_hand = dealer_line[2:].replace(" ", "").split(",") if dealer_line[2:] else []
-            player_hand = player_line[2:].replace(" ", "").split(",") if player_line[2:] else []
+            dealer_hand_full = dealer_line[2:].replace(" ", "").split(",") if dealer_line[2:] else []
+            player_hand_full = player_line[2:].replace(" ", "").split(",") if player_line[2:] else []
+            # Extract just ranks
+            dealer_hand = [extract_rank(card) for card in dealer_hand_full if card]
+            player_hand = [extract_rank(card) for card in player_hand_full if card]
             return dealer_hand, player_hand
     except FileNotFoundError:
         print("Waiting for final_decks.txt to appear...")
@@ -45,19 +52,19 @@ def blackjack_ai():
 
     # AI plays as the player
     while hand_value(player_hand) < 17 and len(player_hand) < 5:
-        print("🧠 AI chooses to hit.")
+        print("Player chooses to hit.")
         time.sleep(1)
         _, player_hand = read_hands_from_file()
         display_hand("Player", player_hand)
 
     if hand_value(player_hand) > 21:
-        print("AI busts! Dealer wins.")
+        print("Player busts! Dealer wins.")
         return
     elif len(player_hand) == 5:
-        print("🎉 AI got 5 cards without busting! AI wins (5-Card Charlie)!")
+        print("Player got 5 cards without busting! AI wins (5-Card Charlie)!")
         return
     else:
-        print("🛑 AI stands.")
+        print("Player stands.")
 
     # Wait for dealer to draw
     print("Waiting for dealer to finish...")

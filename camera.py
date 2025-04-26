@@ -17,7 +17,6 @@ os.makedirs(output_folder, exist_ok=True)
 
 log_file = "detected_cards_log.txt"
 
-# Deck tracking
 player_deck = []
 dealer_deck = []
 player_seen = set()
@@ -27,14 +26,17 @@ new_cards_detected = False
 detection_buffer = []
 detection_start_time = None
 MAX_BUFFER_SIZE = 90
-CONFIRMATION_THRESHOLD = 0.6
+CONFIRMATION_THRESHOLD = 1.5
 LAST_SAVE_TIME = 0
 SAVE_INTERVAL = 2
 
+card_owner = {}  # Map: value -> is_dealer (True/False)
 
 class CardInfo:
     def __init__(self, raw_name, y_center, line_y):
-        self.value = re.sub(r'[hdsc]', '', raw_name.lower())
+        self.value = raw_name.lower()  # Keep full card, e.g., "8h", "8d"
+        self.rank = re.sub(r'[hdsc]', '', self.value)  # "8"
+        self.suit = re.sub(r'[^hdsc]', '', self.value)  # "h"
         self.is_dealer = y_center < line_y
 
     def __hash__(self):
@@ -49,13 +51,11 @@ class CardInfo:
 class CardsDetected:
     def __init__(self, boxes, class_names, line_y):
         self.cards_info = []
-
         if boxes is not None and boxes.cls.numel() > 0:
             for i, cls_id in enumerate(boxes.cls):
                 raw_name = class_names[int(cls_id)]
                 box = boxes.xyxy[i]
                 y_center = (box[1] + box[3]) / 2
-
                 card = CardInfo(raw_name, y_center, line_y)
                 self.cards_info.append(card)
 
@@ -74,11 +74,9 @@ class CardsDetected:
 
 def detect_realtime():
     global last_seen_cards, detected_time, screenshot_taken, new_cards_detected, LAST_SAVE_TIME, SAVE_INTERVAL
-    global detection_buffer, detection_start_time, player_deck, dealer_deck
-
+    global detection_buffer, detection_start_time, player_deck, dealer_deck, card_owner
 
     cap = cv2.VideoCapture(0)
-
 
     if not cap.isOpened():
         print("Nie udało się otworzyć kamery")
@@ -97,7 +95,7 @@ def detect_realtime():
 
             height, width = annotated_frame.shape[:2]
             line_y = height // 2
-            cv2.line(annotated_frame, (0, line_y), (width, line_y), (0, 0, 255), thickness=2)
+            cv2.line(annotated_frame, (0, line_y), (width, line_y), (0, 0, 0), thickness=2)
 
             boxes = result.boxes
             detected = CardsDetected(boxes, model.names, line_y)
@@ -118,13 +116,11 @@ def detect_realtime():
 
                 detection_buffer.append(current_cards)
 
-            # Keep filling the buffer for up to 3 seconds
             if detection_buffer and (time.time() - detection_start_time) < 3:
                 if len(detection_buffer) >= MAX_BUFFER_SIZE:
                     detection_buffer.pop(0)
                 detection_buffer.append(current_cards)
 
-            # After 3 seconds, analyze the buffer
             if detection_buffer and (time.time() - detection_start_time) >= 3:
                 all_cards = [card for frame in detection_buffer for card in frame]
                 card_counts = Counter([card.value for card in all_cards])
@@ -138,28 +134,31 @@ def detect_realtime():
                         if card.value in confirmed_card_values:
                             confirmed_cards.add(card)
 
-
                 if confirmed_cards:
                     log_entries.append(f"Confirmed cards: {', '.join([card.value.upper() for card in confirmed_cards])}\n")
 
                     for card in confirmed_cards:
-                        if card.is_dealer:
+                        if card.value not in card_owner:
+                            card_owner[card.value] = card.is_dealer
+
+                        is_dealer_card = card_owner[card.value]
+
+                        if is_dealer_card:
                             if card.value not in dealer_seen:
                                 dealer_deck.append(card.value)
                                 dealer_seen.add(card.value)
                                 new_cards_detected = True
-                                print(f"🂠 Added {card.value.upper()} to Dealer deck")
+                                print(f"🂠 Added {card.value.upper()} to Dealer deck (locked to Dealer)")
                         else:
                             if card.value not in player_seen:
                                 player_deck.append(card.value)
                                 player_seen.add(card.value)
                                 new_cards_detected = True
-                                print(f"🂡 Added {card.value.upper()} to Player deck")
+                                print(f"🂡 Added {card.value.upper()} to Player deck (locked to Player)")
 
                 detection_buffer.clear()
                 detection_start_time = None
 
-            # Screenshot handling
             if detected_time and not screenshot_taken:
                 if time.time() - detected_time >= 2:
                     timestamp = time.strftime("%Y%m%d_%H%M%S")
@@ -170,6 +169,7 @@ def detect_realtime():
                     print(f"Screenshot saved as: {filepath}")
 
             cv2.imshow("YOLO Real-Time Detection", annotated_frame)
+
         current_time = time.time()
         if new_cards_detected and (current_time - LAST_SAVE_TIME) >= SAVE_INTERVAL:
             with open("final_decks.txt", "w") as f:
@@ -177,7 +177,6 @@ def detect_realtime():
                 f.write(f"P:{', '.join(player_deck)}\n")
             LAST_SAVE_TIME = current_time
             print("💾 Decks updated in 'final_decks.txt'")
-
 
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
@@ -192,9 +191,8 @@ def detect_realtime():
 
     print(f"\nFinal Dealer Deck: {dealer_deck}")
     print(f"Final Player Deck: {player_deck}")
-    with open("final_decks.txt", "w") as f:
-            f.write("")
-            
 
+    with open("final_decks.txt", "w") as f:
+        f.write("")
 
 detect_realtime()
