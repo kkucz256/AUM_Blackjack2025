@@ -1,355 +1,5476 @@
-[2025-04-26 15:55:19]
+[2025-05-18 13:55:49]
+7H - Player
+
+[2025-05-18 13:56:09]
+7H - Player
+
+[2025-05-18 13:56:10]
+7H - Player
+
+[2025-05-18 13:56:10]
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:10]
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:10]
+7H - Player
+6H - Player
+
+[2025-05-18 13:56:10]
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:10]
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:10]
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:10]
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:10]
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:10]
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:10]
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:11]
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:11]
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:11]
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:11]
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:11]
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:11]
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:11]
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:11]
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:11]
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:11]
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:11]
+9S - Player
+QS - Player
+
+[2025-05-18 13:56:12]
+9S - Player
+9S - Player
+
+[2025-05-18 13:56:12]
+9S - Player
+9S - Player
+7H - Player
+
+[2025-05-18 13:56:12]
+9S - Player
+9S - Player
+7H - Player
+QS - Player
+JH - Player
+
+[2025-05-18 13:56:12]
+9S - Player
+7H - Player
+9S - Player
+QS - Player
+
+[2025-05-18 13:56:12]
+9S - Player
+7H - Player
+9S - Player
+
+[2025-05-18 13:56:12]
+9S - Player
+QS - Player
+
+[2025-05-18 13:56:12]
+9S - Player
+
+[2025-05-18 13:56:12]
+9S - Player
+9S - Player
+7H - Player
+
+[2025-05-18 13:56:12]
+7H - Player
+9S - Player
+9S - Player
+9H - Player
+
+[2025-05-18 13:56:12]
+9S - Player
+7H - Player
+7H - Player
+9S - Player
+
+[2025-05-18 13:56:12]
+9S - Player
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:13]
+9S - Player
+9S - Player
+7H - Player
+7H - Player
+
+Confirmed cards: 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H
+[2025-05-18 13:56:13]
+9S - Player
+9S - Player
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:13]
+7H - Player
+9S - Player
+9S - Player
+
+[2025-05-18 13:56:13]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+
+[2025-05-18 13:56:13]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:13]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+
+[2025-05-18 13:56:13]
+9S - Player
+7H - Player
+9S - Player
+7H - Player
+
+[2025-05-18 13:56:13]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+
+[2025-05-18 13:56:13]
+7H - Player
+9S - Player
+7H - Player
+9S - Player
+
+[2025-05-18 13:56:13]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+
+[2025-05-18 13:56:14]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+
+[2025-05-18 13:56:14]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+
+[2025-05-18 13:56:14]
+7H - Player
+7H - Player
+9S - Player
+
+[2025-05-18 13:56:14]
+7H - Player
+9S - Player
+7H - Player
+9S - Player
+
+[2025-05-18 13:56:14]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+
+[2025-05-18 13:56:14]
+7H - Player
+9S - Player
+7H - Player
+
+[2025-05-18 13:56:14]
+9S - Player
+7H - Player
+7H - Player
+9S - Player
+
+[2025-05-18 13:56:14]
+7H - Player
+7H - Player
+9S - Player
+9S - Player
+
+[2025-05-18 13:56:14]
+9S - Player
+7H - Player
+7H - Player
+7S - Player
+
+[2025-05-18 13:56:14]
+9S - Player
+9S - Player
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:14]
+9S - Player
+10S - Player
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:15]
+9S - Player
+7H - Player
+
+[2025-05-18 13:56:15]
+9S - Player
+10S - Player
+
+[2025-05-18 13:56:15]
+10D - Dealer
+9S - Player
+9S - Player
+9D - Dealer
+
+[2025-05-18 13:56:15]
+9S - Player
+9S - Player
+9D - Dealer
+
+[2025-05-18 13:56:15]
+9S - Player
+9S - Player
+10D - Dealer
+7D - Player
+
+[2025-05-18 13:56:15]
+9S - Player
+9S - Player
+7H - Player
+10S - Player
+
+[2025-05-18 13:56:15]
+9S - Player
+10D - Dealer
+
+[2025-05-18 13:56:15]
+9S - Player
+10S - Player
+9S - Player
+
+[2025-05-18 13:56:15]
+9S - Player
+9S - Player
+
+[2025-05-18 13:56:15]
+9S - Player
+10S - Player
+9S - Player
+
+[2025-05-18 13:56:15]
+9S - Player
+9S - Player
+9D - Dealer
+7H - Player
+
+[2025-05-18 13:56:16]
+9S - Player
+10D - Dealer
+9S - Player
+9D - Dealer
+
+[2025-05-18 13:56:16]
+7H - Player
+7H - Player
+10D - Dealer
+7S - Player
+4S - Player
+
+Confirmed cards: 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S
+[2025-05-18 13:56:16]
+9S - Player
+9S - Player
+7H - Player
+10D - Dealer
+7H - Player
+
+[2025-05-18 13:56:16]
+7H - Player
+9S - Player
+9S - Player
+7D - Dealer
+7H - Player
+
+[2025-05-18 13:56:16]
+9S - Player
+9S - Player
+7H - Player
+7H - Player
+7D - Dealer
+
+[2025-05-18 13:56:16]
+9S - Player
+7H - Player
+9S - Player
+7H - Player
+9D - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:16]
+7H - Player
+9S - Player
+9S - Player
+9D - Dealer
+7D - Dealer
+7S - Player
+
+[2025-05-18 13:56:16]
+9S - Player
+7H - Player
+10D - Dealer
+7H - Player
+
+[2025-05-18 13:56:16]
+9S - Player
+7H - Player
+9S - Player
+9D - Dealer
+7H - Player
+9D - Dealer
+
+[2025-05-18 13:56:16]
+9D - Dealer
+9S - Player
+7H - Player
+6S - Player
+7H - Player
+7D - Dealer
+
+[2025-05-18 13:56:17]
+9D - Dealer
+9S - Player
+7H - Player
+9S - Player
+7H - Player
+
+[2025-05-18 13:56:17]
+9S - Player
+7H - Player
+7D - Dealer
+7H - Player
+9S - Player
+7D - Dealer
+
+[2025-05-18 13:56:17]
+9S - Player
+7H - Player
+7D - Dealer
+9S - Player
+7D - Dealer
+7H - Player
+
+[2025-05-18 13:56:17]
+9S - Player
+9S - Player
+7H - Player
+7H - Player
+7D - Dealer
+10D - Dealer
+
+[2025-05-18 13:56:17]
+9S - Player
+7H - Player
+7H - Player
+9S - Player
+7D - Dealer
+
+[2025-05-18 13:56:17]
+9S - Player
+9S - Player
+7H - Player
+7H - Player
+7D - Dealer
+
+[2025-05-18 13:56:17]
+7H - Player
+9S - Player
+9S - Player
+7D - Dealer
+7H - Player
+
+[2025-05-18 13:56:17]
+9S - Player
+7H - Player
+7H - Player
+9S - Player
+7D - Dealer
+
+[2025-05-18 13:56:17]
+7H - Player
+9S - Player
+7H - Player
+9D - Dealer
+7S - Player
+9D - Dealer
+
+[2025-05-18 13:56:18]
+7H - Player
+9S - Player
+7H - Player
+9S - Player
+7D - Dealer
+
+[2025-05-18 13:56:18]
+7H - Player
+9S - Player
+7H - Player
+9D - Dealer
+7S - Player
+
+[2025-05-18 13:56:18]
+7H - Player
+7H - Player
+9S - Player
+9S - Player
+7D - Dealer
+
+[2025-05-18 13:56:18]
+7H - Player
+9S - Player
+7D - Dealer
+7H - Player
+6S - Player
+7D - Dealer
+
+[2025-05-18 13:56:18]
+7H - Player
+9S - Player
+7H - Player
+9S - Player
+7D - Dealer
+
+[2025-05-18 13:56:18]
+9S - Player
+7H - Player
+9S - Player
+7H - Player
+7D - Dealer
+
+[2025-05-18 13:56:18]
+7H - Player
+9S - Player
+9S - Player
+7D - Dealer
+7H - Player
+7D - Dealer
+
+[2025-05-18 13:56:18]
+9S - Player
+7H - Player
+7D - Dealer
+7H - Player
+9S - Player
+
+[2025-05-18 13:56:19]
+7H - Player
+9S - Player
+7H - Player
+7D - Dealer
+9S - Player
+7D - Dealer
+
+[2025-05-18 13:56:19]
+9S - Player
+7H - Player
+7H - Player
+7D - Dealer
+7S - Player
+
+[2025-05-18 13:56:19]
+9S - Player
+7H - Player
+9S - Player
+
+Confirmed cards: 7H, 7H, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 7H, 7H, 7H, 9S, 9S, 7H, 7H, 7H, 9S, 9S, 9S, 7H, 7H, 9S, 7H, 7H, 7H, 7H, 7H, 9S, 7H, 7H, 7H, 7H, 9S, 9S, 7H, 7H, 7H, 9S, 9S, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 9S, 9S, 9S, 9S, 7H, 7H, 7H, 7H, 9S, 9S, 9S, 9S, 7H, 7H, 9S, 7H, 9S, 7H, 9S, 7H, 9S, 9S, 9S, 7H, 9S, 9S, 9S, 7H, 9S, 9S, 7H, 9S, 9S, 7H, 9S, 9S, 7H, 7H, 9S, 7H, 7H, 7H, 7H, 7H, 9S, 9S, 7H, 7H, 9S, 7H
+[2025-05-18 13:56:19]
+7H - Player
+9S - Player
+7H - Player
+9S - Player
+7D - Dealer
+9C - Player
+
+[2025-05-18 13:56:19]
+9S - Player
+7H - Player
+9S - Player
+7H - Player
+7D - Dealer
+7S - Player
+
+[2025-05-18 13:56:19]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+7D - Dealer
+
+[2025-05-18 13:56:19]
+9S - Player
+9S - Player
+7D - Dealer
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:19]
+9S - Player
+7H - Player
+7D - Dealer
+9S - Player
+7H - Player
+
+[2025-05-18 13:56:19]
+7H - Player
+9S - Player
+9S - Player
+9D - Dealer
+7H - Player
+7D - Dealer
+
+[2025-05-18 13:56:19]
+7H - Player
+9S - Player
+7H - Player
+10D - Dealer
+9S - Player
+
+[2025-05-18 13:56:20]
+9S - Player
+10D - Dealer
+10D - Dealer
+9S - Player
+
+[2025-05-18 13:56:20]
+9S - Player
+10D - Dealer
+9S - Player
+7D - Player
+
+[2025-05-18 13:56:20]
+9S - Player
+9S - Player
+7H - Player
+7D - Dealer
+
+[2025-05-18 13:56:20]
+9S - Player
+9S - Player
+7D - Dealer
+JH - Player
+
+[2025-05-18 13:56:20]
+9S - Player
+10D - Dealer
+10D - Dealer
+
+[2025-05-18 13:56:20]
+9S - Player
+7H - Player
+9D - Dealer
+7H - Player
+9D - Dealer
+7S - Player
+
+[2025-05-18 13:56:20]
+9S - Player
+7H - Player
+9D - Dealer
+8S - Player
+9D - Dealer
+7H - Player
+
+[2025-05-18 13:56:20]
+7H - Player
+9S - Player
+9D - Dealer
+7H - Player
+
+[2025-05-18 13:56:20]
+7H - Player
+9S - Player
+9S - Player
+7D - Dealer
+7H - Player
+7D - Dealer
+7S - Dealer
+
+[2025-05-18 13:56:20]
+9S - Player
+9S - Player
+7H - Player
+7H - Player
+9D - Dealer
+
+[2025-05-18 13:56:21]
+9S - Player
+7H - Player
+9S - Player
+7H - Player
+
+[2025-05-18 13:56:21]
+9S - Player
+9S - Player
+7H - Player
+5D - Dealer
+
+[2025-05-18 13:56:21]
+7H - Player
+9S - Player
+9S - Player
+7D - Dealer
+7H - Player
+
+[2025-05-18 13:56:21]
+7H - Player
+9S - Player
+9S - Player
+9D - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:21]
+7H - Player
+7H - Player
+9S - Player
+9S - Player
+9D - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:21]
+7H - Player
+9S - Player
+9S - Player
+9D - Dealer
+9D - Dealer
+7H - Player
+
+[2025-05-18 13:56:21]
+7H - Player
+9S - Player
+9D - Dealer
+9D - Dealer
+7H - Player
+9S - Player
+
+[2025-05-18 13:56:22]
+7H - Player
+9S - Player
+9S - Player
+9D - Dealer
+7H - Player
+9D - Dealer
+
+[2025-05-18 13:56:22]
+9S - Player
+7H - Player
+9S - Player
+7H - Player
+
+[2025-05-18 13:56:22]
+9S - Player
+9S - Player
+7H - Player
+7H - Player
+7D - Dealer
+9D - Dealer
+
+Confirmed cards: 9S, 9S, 9S, 9S, 9S, 9S, 7H, 9S, 9S, 9S, 7H, 7H, 7H, 9S, 9S, 7H, 7H, 9S, 7H, 7H, 7H, 9S, 9S, 9S, 9S, 7H, 7H, 9S, 7H, 7H, 9S, 7H, 7H, 7H, 7H, 9S, 7H, 9S, 9S, 9S, 9S, 9S, 9S, 7H, 9S, 9S, 7H, 7H, 9S, 7H, 7H, 7H, 9S, 7H, 7H, 7H, 7H, 9S, 9S, 9S, 9S, 9S, 7H, 9S, 7H, 9S, 9S, 9S, 9S, 9S, 9S, 7H, 7H, 9S, 9S, 9S, 9S, 9S, 7H, 7H, 9S, 7H, 7H, 9S, 9S, 7H, 7H, 7H, 7H, 7H, 9S, 7H, 7H
+[2025-05-18 13:56:22]
+7H - Player
+9S - Player
+9S - Player
+9D - Dealer
+
+[2025-05-18 13:56:22]
+9S - Player
+7H - Player
+9S - Player
+7H - Player
+9D - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:22]
+7H - Player
+9S - Player
+9D - Dealer
+7H - Player
+9S - Player
+
+[2025-05-18 13:56:22]
+9S - Player
+7H - Player
+7H - Player
+9D - Dealer
+9S - Player
+
+[2025-05-18 13:56:22]
+7H - Player
+9S - Player
+9D - Dealer
+9S - Player
+7H - Player
+
+[2025-05-18 13:56:22]
+7H - Player
+9S - Player
+9S - Player
+9D - Dealer
+7H - Player
+
+[2025-05-18 13:56:23]
+9S - Player
+7H - Player
+9D - Dealer
+9S - Player
+7H - Player
+
+[2025-05-18 13:56:23]
+9S - Player
+9S - Player
+7H - Player
+7H - Player
+7D - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:23]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+9D - Dealer
+
+[2025-05-18 13:56:23]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+9D - Dealer
+
+[2025-05-18 13:56:23]
+7H - Player
+9S - Player
+9S - Player
+7D - Dealer
+7H - Player
+7D - Dealer
+
+[2025-05-18 13:56:23]
+7H - Player
+9S - Player
+9S - Player
+9D - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:23]
+9S - Player
+7H - Player
+9D - Dealer
+7H - Player
+
+[2025-05-18 13:56:23]
+9S - Player
+7H - Player
+9S - Player
+7D - Dealer
+7H - Player
+
+[2025-05-18 13:56:23]
+9S - Player
+7H - Player
+9S - Player
+7D - Dealer
+
+[2025-05-18 13:56:23]
+9S - Player
+9S - Player
+7H - Player
+9D - Dealer
+
+[2025-05-18 13:56:24]
+7H - Player
+9S - Player
+9S - Player
+9D - Dealer
+7H - Player
+7D - Dealer
+
+[2025-05-18 13:56:24]
+7H - Player
+9S - Player
+9S - Player
+9D - Dealer
+9D - Dealer
+7H - Player
+
+[2025-05-18 13:56:24]
+7H - Player
+9S - Player
+9S - Player
+9D - Dealer
+7H - Player
+9D - Dealer
+
+[2025-05-18 13:56:24]
+7H - Player
+9S - Player
+7H - Player
+9D - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:24]
+9S - Player
+7H - Player
+9S - Player
+7H - Player
+7D - Dealer
+
+[2025-05-18 13:56:24]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+7D - Dealer
+
+[2025-05-18 13:56:24]
+7H - Player
+9S - Player
+7D - Dealer
+7H - Player
+9S - Player
+
+[2025-05-18 13:56:24]
+7H - Player
+9S - Player
+9D - Dealer
+7D - Dealer
+7H - Player
+
+[2025-05-18 13:56:25]
+9S - Player
+9S - Player
+7H - Player
+9D - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:25]
+7H - Player
+9S - Player
+7H - Player
+9D - Dealer
+7S - Player
+7H - Player
+
+[2025-05-18 13:56:25]
+7H - Player
+9S - Player
+9S - Player
+9D - Dealer
+7D - Player
+
+[2025-05-18 13:56:25]
+9S - Player
+7H - Player
+7H - Player
+7D - Dealer
+9S - Player
+
+[2025-05-18 13:56:25]
+7H - Player
+7H - Player
+9S - Player
+9S - Player
+7D - Dealer
+7D - Dealer
+
+Confirmed cards: 7H, 7H, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 7H, 9S, 9S, 7H, 7H, 9S, 9S, 9S, 9S, 7H, 7H, 9S, 9S, 7H, 9S, 9S, 9S, 7H, 7H, 9S, 7H, 7H, 7H, 7H, 7H, 9S, 9S, 9S, 9S, 7H, 9S, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 9S, 9S, 9S, 7H, 9S, 9S, 9S, 7H, 7H, 9S, 9S, 7H, 7H, 7H, 9S, 9S, 9S, 9S, 7H, 7H, 7H, 7H, 9S, 9S, 7H, 9S, 9S, 9S, 9S, 9S, 9S, 7H, 9S, 7H, 7H, 9S, 7H, 7H, 9S, 7H, 7H, 7H, 9S, 9S, 7H, 7H, 9S, 9S, 7H, 7H, 7H, 9S, 9S, 7H, 7H
+[2025-05-18 13:56:25]
+9S - Player
+7H - Player
+9S - Player
+7H - Player
+7D - Dealer
+
+[2025-05-18 13:56:25]
+7H - Player
+7H - Player
+9S - Player
+9S - Player
+7D - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:25]
+7H - Player
+7H - Player
+7D - Dealer
+9S - Player
+
+[2025-05-18 13:56:26]
+9S - Player
+7H - Player
+7D - Dealer
+7H - Player
+7D - Dealer
+7S - Player
+
+[2025-05-18 13:56:26]
+9S - Player
+7H - Player
+7H - Player
+9S - Player
+7D - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:26]
+9S - Player
+7H - Player
+7H - Player
+9S - Player
+
+[2025-05-18 13:56:26]
+9S - Player
+9S - Player
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:26]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+9D - Dealer
+
+[2025-05-18 13:56:26]
+9S - Player
+7H - Player
+7H - Player
+9S - Player
+9D - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:26]
+9S - Player
+7H - Player
+7H - Player
+9S - Player
+7S - Player
+7D - Dealer
+
+[2025-05-18 13:56:26]
+9S - Player
+7H - Player
+7H - Player
+7D - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:26]
+7H - Player
+7H - Player
+7S - Player
+7D - Dealer
+9D - Dealer
+7S - Player
+
+[2025-05-18 13:56:26]
+7H - Player
+7H - Player
+9S - Player
+7S - Player
+9D - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:27]
+7H - Player
+7H - Player
+9S - Player
+9S - Player
+7D - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:27]
+7H - Player
+7H - Player
+9S - Player
+7D - Dealer
+7D - Dealer
+7S - Player
+7D - Dealer
+
+[2025-05-18 13:56:27]
+7H - Player
+7H - Player
+7D - Dealer
+7S - Player
+7D - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:27]
+9S - Player
+7H - Player
+7H - Player
+9S - Player
+7D - Dealer
+
+[2025-05-18 13:56:27]
+7H - Player
+7H - Player
+9S - Player
+9S - Player
+7D - Dealer
+
+[2025-05-18 13:56:27]
+9S - Player
+7H - Player
+7H - Player
+9S - Player
+7D - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:27]
+9S - Player
+7H - Player
+7H - Player
+9S - Player
+10D - Dealer
+
+[2025-05-18 13:56:27]
+9S - Player
+7H - Player
+9S - Player
+7D - Player
+7D - Dealer
+
+[2025-05-18 13:56:27]
+7H - Player
+9S - Player
+9S - Player
+9D - Dealer
+7H - Player
+7D - Dealer
+
+[2025-05-18 13:56:27]
+9S - Player
+7H - Player
+9S - Player
+9D - Dealer
+7H - Player
+9D - Dealer
+
+[2025-05-18 13:56:28]
+9S - Player
+9D - Dealer
+9S - Player
+9H - Player
+7H - Player
+7D - Dealer
+
+[2025-05-18 13:56:28]
+7H - Player
+9S - Player
+9S - Player
+10D - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:28]
+7H - Player
+7H - Player
+9S - Player
+9S - Player
+9D - Dealer
+7H - Player
+9D - Dealer
+
+[2025-05-18 13:56:28]
+9S - Player
+9S - Player
+9D - Dealer
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:28]
+9S - Player
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:28]
+9S - Player
+7H - Player
+9D - Dealer
+9S - Player
+9D - Dealer
+7H - Player
+
+[2025-05-18 13:56:28]
+9D - Dealer
+7H - Player
+9S - Player
+9S - Player
+9D - Dealer
+
+[2025-05-18 13:56:28]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+9D - Dealer
+9D - Dealer
+
+Confirmed cards: 9S, 9S, 9S, 9S, 9S, 9S, 7H, 7H, 7H, 9S, 9S, 9S, 9S, 7H, 7H, 7H, 9S, 9S, 9S, 9S, 7H, 7H, 9S, 9S, 9S, 9S, 7H, 7H, 9S, 9S, 9S, 9S, 7H, 9S, 9S, 9S, 9S, 9S, 9S, 7H, 7H, 9S, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 9S, 7H, 7H, 9S, 9S, 9S, 9S, 7H, 7H, 9S, 9S, 9S, 9S, 9S, 9S, 7H, 7H, 7H, 7H, 7H, 9S, 7H, 7H, 7H, 7H, 9S, 9S, 7H, 7H, 9S, 7H, 9S, 9S, 7H, 7H, 7H, 9S, 7H, 9S, 9S, 7H, 7H, 7H, 9S, 9S, 9S, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H
+[2025-05-18 13:56:28]
+9S - Player
+7H - Player
+7H - Player
+9S - Player
+4C - Dealer
+9H - Dealer
+9D - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:28]
+7H - Player
+9S - Player
+4C - Dealer
+7H - Player
+9D - Dealer
+
+[2025-05-18 13:56:29]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+
+[2025-05-18 13:56:29]
+7H - Player
+9S - Player
+9S - Player
+4C - Dealer
+7H - Player
+9D - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:29]
+7H - Player
+9S - Player
+9S - Player
+9D - Dealer
+7H - Player
+4C - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:29]
+9S - Player
+9S - Player
+7H - Player
+7H - Player
+
+[2025-05-18 13:56:29]
+7H - Player
+7H - Player
+9S - Player
+9S - Player
+4C - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:29]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+9D - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:29]
+9S - Player
+9S - Player
+7H - Player
+9D - Dealer
+7H - Player
+
+[2025-05-18 13:56:29]
+9S - Player
+7H - Player
+9S - Player
+7H - Player
+7C - Dealer
+4C - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:29]
+9S - Player
+9S - Player
+9D - Dealer
+7H - Player
+9S - Player
+10D - Dealer
+
+[2025-05-18 13:56:29]
+9S - Player
+9S - Player
+9D - Dealer
+7H - Player
+7H - Player
+9D - Dealer
+
+[2025-05-18 13:56:30]
+9S - Player
+9S - Player
+7H - Player
+7H - Player
+9D - Dealer
+
+[2025-05-18 13:56:30]
+9S - Player
+9S - Player
+7H - Player
+7H - Player
+9D - Dealer
+
+[2025-05-18 13:56:30]
+9S - Player
+9S - Player
+7H - Player
+7H - Player
+9D - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:30]
+9S - Player
+9S - Player
+7H - Player
+9D - Dealer
+7H - Player
+9D - Dealer
+
+[2025-05-18 13:56:30]
+9S - Player
+9S - Player
+7H - Player
+9D - Dealer
+9D - Dealer
+7H - Player
+
+[2025-05-18 13:56:30]
+9S - Player
+9S - Player
+7H - Player
+9D - Dealer
+7H - Player
+
+[2025-05-18 13:56:30]
+9S - Player
+7H - Player
+9S - Player
+9D - Dealer
+7H - Player
+9D - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:30]
+9S - Player
+7H - Player
+9S - Player
+9D - Dealer
+
+[2025-05-18 13:56:30]
+9S - Player
+7H - Player
+9S - Player
+4C - Dealer
+7H - Player
+9D - Dealer
+
+[2025-05-18 13:56:30]
+7H - Player
+9S - Player
+9S - Player
+9D - Dealer
+9D - Dealer
+4C - Dealer
+4C - Dealer
+9H - Player
+
+[2025-05-18 13:56:31]
+9S - Player
+9S - Player
+7H - Player
+7D - Dealer
+4C - Dealer
+4C - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:31]
+9D - Dealer
+9S - Player
+9S - Player
+7H - Player
+4C - Dealer
+7H - Player
+9C - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:31]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+4C - Dealer
+10D - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:31]
+7H - Player
+9S - Player
+9S - Player
+4C - Dealer
+7H - Player
+4C - Dealer
+9D - Dealer
+10D - Dealer
+
+[2025-05-18 13:56:31]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+4C - Dealer
+4C - Dealer
+10D - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:31]
+7H - Player
+9S - Player
+9S - Player
+4C - Dealer
+9D - Dealer
+7H - Player
+7D - Dealer
+
+[2025-05-18 13:56:31]
+4C - Dealer
+9S - Player
+9S - Player
+4C - Dealer
+7H - Player
+7H - Player
+9D - Dealer
+
+[2025-05-18 13:56:31]
+9S - Player
+9S - Player
+4C - Dealer
+7H - Player
+4C - Dealer
+5D - Dealer
+9D - Dealer
+7H - Player
+
+[2025-05-18 13:56:31]
+7H - Player
+9S - Player
+9S - Player
+4C - Dealer
+4C - Dealer
+4D - Dealer
+10D - Dealer
+7H - Player
+
+[2025-05-18 13:56:31]
+9S - Player
+9S - Player
+7H - Player
+7H - Player
+4C - Dealer
+
+Confirmed cards: 7H, 7H, 7H, 7H, 7H, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 7H, 7H, 9S, 9S, 9S, 7H, 9S, 9S, 9S, 9S, 7H, 7H, 9S, 9S, 7H, 7H, 7H, 7H, 9S, 9S, 9S, 7H, 7H, 7H, 9S, 9S, 9S, 9S, 7H, 7H, 7H, 7H, 9S, 9S, 9S, 7H, 7H, 9S, 9S, 7H, 7H, 9S, 9S, 7H, 7H, 7H, 9S, 7H, 9S, 7H, 7H, 9S, 9S, 9S, 7H, 7H, 7H, 9S, 9S, 9S, 7H, 7H, 7H, 9S, 9S, 7H, 9S, 9S, 9S, 9S, 9S, 9S, 7H, 7H, 9S, 7H, 7H, 9S, 7H, 9S, 7H, 7H, 9S, 7H, 7H, 7H, 9S, 7H, 9S, 9S, 9S, 9S, 9S, 7H, 7H, 9S, 7H, 9S, 7H, 7H, 7H, 7H, 9S, 7H, 9S, 9S, 7H, 7H, 9S, 7H
+[2025-05-18 13:56:32]
+9S - Player
+4D - Dealer
+9S - Player
+7H - Player
+9H - Player
+7H - Player
+7D - Dealer
+4C - Dealer
+4C - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:32]
+9S - Player
+10D - Dealer
+9S - Player
+4C - Dealer
+7H - Player
+4C - Dealer
+4D - Dealer
+7H - Player
+
+[2025-05-18 13:56:32]
+9S - Player
+4D - Dealer
+7D - Dealer
+4C - Dealer
+4C - Dealer
+7H - Player
+9S - Player
+JH - Player
+
+[2025-05-18 13:56:32]
+9S - Player
+9S - Player
+4C - Dealer
+7H - Player
+4C - Dealer
+7D - Dealer
+10D - Dealer
+
+[2025-05-18 13:56:32]
+9S - Player
+4C - Dealer
+4C - Dealer
+9S - Player
+7H - Player
+7D - Dealer
+
+[2025-05-18 13:56:32]
+9S - Player
+9S - Player
+4C - Dealer
+4D - Dealer
+4C - Dealer
+10D - Dealer
+7H - Player
+7H - Player
+9H - Player
+
+[2025-05-18 13:56:32]
+9S - Player
+10D - Dealer
+9S - Player
+4C - Dealer
+4C - Dealer
+7H - Player
+4D - Dealer
+7H - Player
+
+[2025-05-18 13:56:32]
+9S - Player
+4C - Dealer
+9S - Player
+4C - Dealer
+7H - Player
+4D - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:32]
+4C - Dealer
+9D - Dealer
+9S - Player
+9S - Player
+9H - Player
+4C - Dealer
+7H - Player
+9D - Dealer
+
+[2025-05-18 13:56:32]
+9S - Player
+9S - Player
+4C - Dealer
+7H - Player
+4C - Dealer
+4D - Dealer
+
+[2025-05-18 13:56:33]
+9S - Player
+9S - Player
+7H - Player
+4C - Dealer
+4C - Dealer
+7H - Player
+7D - Dealer
+7S - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:33]
+4C - Dealer
+4C - Dealer
+9S - Player
+9S - Player
+7H - Player
+7D - Dealer
+9D - Dealer
+7H - Player
+4D - Dealer
+
+[2025-05-18 13:56:33]
+9S - Player
+7H - Player
+7H - Dealer
+9S - Player
+9D - Dealer
+4C - Dealer
+4C - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:33]
+9S - Player
+7H - Dealer
+7H - Player
+9S - Player
+7D - Dealer
+10D - Dealer
+7C - Dealer
+
+[2025-05-18 13:56:33]
+7H - Player
+9S - Player
+7H - Dealer
+9S - Player
+7C - Dealer
+9D - Dealer
+10D - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:33]
+7H - Player
+9S - Player
+4C - Dealer
+9S - Player
+10D - Dealer
+9D - Dealer
+7H - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:33]
+7H - Player
+9S - Player
+9S - Player
+4C - Dealer
+9D - Dealer
+7D - Dealer
+7H - Dealer
+
+[2025-05-18 13:56:33]
+10D - Dealer
+9S - Player
+9S - Player
+7H - Player
+4C - Dealer
+7H - Dealer
+4C - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:33]
+7H - Player
+9S - Player
+7H - Dealer
+9S - Player
+7D - Dealer
+5C - Dealer
+
+[2025-05-18 13:56:33]
+9S - Player
+9S - Player
+7H - Dealer
+7H - Player
+10D - Dealer
+4C - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:34]
+9S - Player
+9S - Player
+4C - Dealer
+7H - Player
+7D - Dealer
+7H - Dealer
+4C - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:34]
+7H - Player
+9S - Player
+7D - Dealer
+9S - Player
+4C - Dealer
+9D - Dealer
+7H - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:34]
+7H - Player
+9S - Player
+9S - Player
+4C - Dealer
+7D - Dealer
+4C - Dealer
+7H - Dealer
+10D - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:34]
+7H - Dealer
+7H - Player
+9S - Player
+9S - Player
+4C - Dealer
+9D - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:34]
+9D - Dealer
+7H - Dealer
+7H - Player
+9S - Player
+9S - Player
+4C - Dealer
+4C - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:34]
+7H - Player
+9S - Player
+7H - Dealer
+9S - Player
+9D - Dealer
+4C - Dealer
+10D - Dealer
+4C - Dealer
+JC - Dealer
+
+[2025-05-18 13:56:34]
+7H - Player
+4C - Dealer
+9S - Player
+4C - Dealer
+9S - Player
+9D - Dealer
+7H - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:34]
+7H - Player
+10D - Dealer
+4C - Dealer
+7H - Dealer
+9S - Dealer
+9S - Player
+4C - Dealer
+
+[2025-05-18 13:56:34]
+7H - Player
+9S - Player
+9S - Player
+4C - Dealer
+7H - Dealer
+9D - Dealer
+10D - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:34]
+7H - Player
+9S - Player
+9S - Player
+4C - Dealer
+4C - Dealer
+10D - Dealer
+7H - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:35]
+7H - Player
+9S - Player
+7H - Dealer
+9S - Player
+10D - Dealer
+10D - Dealer
+7C - Dealer
+
+Confirmed cards: 7H, 7H, 9S, 7H, 7H, 7H, 7H, 9S, 7H, 7H, 7H, 7H, 7H, 7H, 4C, 4C, 4C, 4C, 9S, 9S, 4C, 9S, 4C, 9S, 4C, 7H, 9S, 4C, 4C, 7H, 9S, 7H, 9S, 7H, 7H, 4C, 9S, 7H, 4C, 7H, 4C, 9S, 4C, 4C, 9S, 9S, 7H, 7H, 7H, 7H, 9S, 9S, 9S, 7H, 7H, 9S, 9S, 9S, 7H, 7H, 9S, 7H, 9S, 7H, 9S, 7H, 4C, 4C, 4C, 7H, 9S, 7H, 9S, 9S, 7H, 4C, 4C, 4C, 9S, 7H, 4C, 4C, 9S, 7H, 4C, 4C, 9S, 4C, 9S, 4C, 4C, 9S, 9S, 4C, 4C, 9S, 4C, 4C, 9S, 9S, 9S, 9S, 7H, 7H, 7H, 9S, 4C, 4C, 4C, 4C, 4C, 4C, 7H, 7H, 9S, 9S, 4C, 4C, 9S, 4C, 7H, 4C, 4C, 4C, 4C, 9S, 4C, 9S, 4C, 4C, 9S, 9S, 9S, 9S, 7H, 7H, 9S, 9S, 9S, 9S, 9S, 9S, 7H, 9S, 9S, 9S, 4C, 4C, 7H, 7H, 7H, 4C, 4C, 7H, 9S, 7H, 7H, 7H, 7H, 9S, 9S, 7H, 4C, 7H, 9S, 4C, 9S, 7H, 7H, 9S, 9S
+[2025-05-18 13:56:35]
+9S - Player
+7H - Player
+9S - Player
+7H - Dealer
+10D - Dealer
+4C - Dealer
+10D - Dealer
+7C - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:35]
+10D - Dealer
+4C - Dealer
+7H - Player
+10D - Dealer
+9S - Player
+7H - Player
+9S - Player
+4C - Dealer
+
+[2025-05-18 13:56:35]
+10D - Dealer
+7H - Player
+7H - Player
+4C - Dealer
+4C - Dealer
+9S - Player
+9S - Player
+9D - Dealer
+
+[2025-05-18 13:56:35]
+4C - Dealer
+4C - Dealer
+7H - Player
+10D - Dealer
+10D - Dealer
+9S - Player
+9S - Player
+7H - Player
+
+[2025-05-18 13:56:35]
+7H - Player
+9S - Player
+7H - Player
+9S - Player
+4C - Dealer
+10D - Dealer
+10D - Dealer
+7C - Dealer
+
+[2025-05-18 13:56:35]
+10D - Dealer
+7H - Player
+9S - Player
+4C - Dealer
+9S - Player
+4C - Dealer
+9D - Dealer
+4C - Dealer
+7H - Player
+
+[2025-05-18 13:56:35]
+7H - Player
+9S - Player
+7H - Player
+9S - Player
+7D - Dealer
+10D - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:35]
+7H - Player
+9S - Player
+4C - Dealer
+9S - Player
+9D - Dealer
+7D - Dealer
+7H - Player
+4C - Dealer
+10D - Dealer
+
+[2025-05-18 13:56:35]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+7D - Dealer
+9D - Dealer
+4C - Dealer
+AC - Dealer
+10D - Dealer
+
+[2025-05-18 13:56:36]
+7H - Player
+7D - Dealer
+9S - Player
+9S - Player
+7H - Player
+4C - Dealer
+4C - Dealer
+10D - Dealer
+
+[2025-05-18 13:56:36]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+9C - Dealer
+7D - Dealer
+4C - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:36]
+7H - Player
+9S - Player
+7H - Player
+10D - Dealer
+6S - Player
+4C - Dealer
+7D - Dealer
+7C - Dealer
+5C - Dealer
+9S - Player
+4C - Dealer
+
+[2025-05-18 13:56:36]
+7H - Player
+4C - Dealer
+10D - Dealer
+9S - Player
+9S - Player
+7H - Player
+5C - Dealer
+
+[2025-05-18 13:56:36]
+7H - Player
+9S - Player
+9S - Player
+4C - Dealer
+7H - Player
+7D - Dealer
+7C - Dealer
+10D - Dealer
+
+[2025-05-18 13:56:36]
+7H - Player
+9S - Player
+4C - Dealer
+9S - Player
+4C - Dealer
+7H - Player
+10D - Dealer
+10D - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:36]
+7H - Player
+4C - Dealer
+9S - Player
+9S - Player
+10D - Dealer
+7H - Player
+10D - Dealer
+
+[2025-05-18 13:56:36]
+7H - Player
+9S - Player
+4C - Dealer
+9S - Player
+7D - Dealer
+7H - Player
+10D - Dealer
+7C - Dealer
+
+[2025-05-18 13:56:36]
+7H - Player
+9S - Player
+9S - Player
+4C - Dealer
+4D - Dealer
+7H - Player
+9D - Dealer
+
+[2025-05-18 13:56:36]
+10D - Dealer
+9S - Player
+7H - Player
+9S - Player
+9D - Dealer
+4C - Dealer
+7H - Player
+9C - Dealer
+
+[2025-05-18 13:56:37]
+7H - Player
+4C - Dealer
+9S - Player
+7D - Dealer
+9S - Player
+4C - Dealer
+7D - Dealer
+7H - Player
+
+[2025-05-18 13:56:37]
+10D - Dealer
+7H - Player
+9S - Player
+7H - Player
+4C - Dealer
+9D - Dealer
+9C - Player
+9S - Player
+
+[2025-05-18 13:56:37]
+9S - Player
+9S - Player
+7H - Player
+7D - Dealer
+4C - Dealer
+7H - Player
+10D - Dealer
+4C - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:37]
+7H - Player
+9S - Player
+10D - Dealer
+9S - Player
+7H - Player
+4C - Dealer
+10D - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:37]
+7H - Player
+9S - Player
+10D - Dealer
+7H - Player
+9S - Player
+4C - Dealer
+7C - Dealer
+10D - Dealer
+
+[2025-05-18 13:56:37]
+7D - Dealer
+7H - Player
+9S - Player
+9S - Player
+4C - Dealer
+10D - Dealer
+4C - Dealer
+7H - Player
+
+[2025-05-18 13:56:37]
+10D - Dealer
+7H - Player
+9S - Player
+10D - Dealer
+9S - Player
+4C - Dealer
+4C - Dealer
+7H - Player
+
+[2025-05-18 13:56:37]
+10D - Dealer
+7H - Player
+9S - Player
+7H - Player
+10D - Dealer
+4C - Dealer
+9S - Player
+4C - Dealer
+
+[2025-05-18 13:56:37]
+9S - Player
+7H - Player
+7H - Player
+9S - Player
+4C - Dealer
+10D - Dealer
+5C - Dealer
+4C - Dealer
+10D - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:37]
+7H - Player
+4C - Dealer
+9S - Player
+7D - Dealer
+9S - Player
+7H - Player
+7D - Dealer
+5C - Dealer
+
+[2025-05-18 13:56:38]
+7H - Player
+9S - Player
+10D - Dealer
+4C - Dealer
+7H - Player
+9S - Player
+4C - Dealer
+10D - Dealer
+
+[2025-05-18 13:56:38]
+7H - Player
+10D - Dealer
+4C - Dealer
+9S - Player
+7H - Player
+9S - Player
+4C - Dealer
+10D - Dealer
+
+Confirmed cards: 7H, 7H, 7H, 9S, 9S, 7H, 7H, 7H, 9S, 7H, 7H, 7H, 7H, 9S, 4C, 4C, 4C, 4C, 4C, 4C, 4C, 9S, 4C, 4C, 9S, 9S, 9S, 4C, 9S, 9S, 9S, 9S, 9S, 4C, 7H, 9S, 4C, 4C, 4C, 7H, 7H, 9S, 9S, 9S, 4C, 9S, 4C, 7H, 4C, 7H, 9S, 9S, 9S, 7H, 7H, 9S, 4C, 4C, 7H, 7H, 7H, 7H, 4C, 9S, 7H, 9S, 9S, 7H, 4C, 9S, 7H, 7H, 7H, 7H, 7H, 7H, 4C, 7H, 7H, 4C, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 4C, 4C, 9S, 7H, 9S, 7H, 7H, 7H, 9S, 7H, 4C, 4C, 9S, 9S, 7H, 4C, 4C, 4C, 4C, 4C, 9S, 4C, 9S, 9S, 9S, 4C, 9S, 9S, 9S, 4C, 7H, 4C, 7H, 9S, 9S, 7H, 9S, 4C, 4C, 7H, 7H, 9S, 9S, 9S, 7H, 7H, 9S, 4C, 4C, 9S, 7H, 9S, 4C, 4C, 9S, 9S, 4C, 4C, 9S, 7H, 4C, 4C, 9S, 9S, 7H, 7H, 9S, 7H, 9S, 9S, 9S, 9S, 4C, 4C, 9S, 7H, 4C, 7H, 9S, 7H, 9S, 7H, 7H, 9S, 9S
+[2025-05-18 13:56:38]
+9S - Player
+4C - Dealer
+7H - Player
+9S - Player
+7H - Player
+7D - Dealer
+10D - Dealer
+7D - Dealer
+5C - Dealer
+
+[2025-05-18 13:56:38]
+7H - Player
+9S - Player
+7H - Player
+5C - Dealer
+9S - Player
+10D - Dealer
+4C - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:38]
+7H - Player
+9S - Player
+9S - Player
+4C - Dealer
+7H - Player
+10D - Dealer
+5C - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:38]
+9S - Player
+7H - Player
+10D - Dealer
+7H - Player
+9S - Player
+7D - Dealer
+5C - Dealer
+5C - Dealer
+4C - Dealer
+10D - Dealer
+
+[2025-05-18 13:56:38]
+9S - Player
+7H - Player
+7H - Player
+4C - Dealer
+9S - Player
+7D - Dealer
+10D - Dealer
+7C - Dealer
+7D - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:38]
+9S - Player
+7H - Player
+7H - Player
+9S - Player
+7D - Dealer
+7D - Dealer
+4C - Dealer
+5C - Dealer
+7C - Dealer
+
+[2025-05-18 13:56:38]
+7H - Player
+9S - Player
+7H - Player
+7D - Dealer
+9S - Player
+5C - Dealer
+7C - Dealer
+4C - Dealer
+10D - Dealer
+
+[2025-05-18 13:56:38]
+10D - Dealer
+7H - Player
+7H - Player
+9S - Player
+9D - Dealer
+9S - Player
+5C - Dealer
+7C - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:39]
+9S - Player
+7H - Player
+10D - Dealer
+7H - Player
+4C - Dealer
+9S - Player
+9D - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:39]
+9S - Player
+10D - Dealer
+7H - Player
+9S - Player
+4C - Dealer
+7H - Player
+7C - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:39]
+9S - Player
+10D - Dealer
+7H - Player
+7H - Player
+9S - Player
+4C - Dealer
+9D - Dealer
+4C - Dealer
+7C - Dealer
+5C - Dealer
+
+[2025-05-18 13:56:39]
+9S - Player
+10D - Dealer
+7H - Player
+4C - Dealer
+7H - Player
+9S - Player
 6C - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:39]
+9S - Player
+10D - Dealer
+7H - Player
+7H - Player
+4C - Dealer
+9S - Player
+7D - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:39]
+9S - Player
+7H - Player
+10D - Dealer
+9S - Player
+5C - Dealer
+7C - Dealer
+7H - Player
+9D - Dealer
+
+[2025-05-18 13:56:39]
+9S - Player
+7H - Player
+7H - Player
+10D - Dealer
+9S - Player
+4C - Dealer
+7D - Dealer
+4C - Dealer
 5C - Dealer
 
-[2025-04-26 15:55:19]
+[2025-05-18 13:56:39]
+7H - Player
+9S - Player
+7D - Dealer
+4C - Dealer
+7H - Player
+4C - Dealer
+9S - Player
+10D - Dealer
+
+[2025-05-18 13:56:39]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+9D - Dealer
+4C - Dealer
+10D - Dealer
+
+[2025-05-18 13:56:39]
+9S - Player
+7H - Player
+10D - Dealer
+7H - Player
+9S - Player
+7C - Dealer
+9D - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:40]
+9S - Player
+7H - Player
+7H - Player
+9S - Player
+7D - Dealer
+4C - Dealer
+JD - Dealer
+
+[2025-05-18 13:56:40]
+7H - Player
+9S - Player
+7H - Player
+4C - Dealer
+9S - Player
+4C - Dealer
+7D - Dealer
+10D - Dealer
+9D - Dealer
+10C - Dealer
+
+[2025-05-18 13:56:40]
+7H - Player
+7H - Player
+9S - Player
+9S - Player
+4C - Dealer
+9D - Dealer
+10D - Dealer
 5C - Dealer
 
-[2025-04-26 15:55:19]
-3C - Dealer
+[2025-05-18 13:56:40]
+7H - Player
+9S - Player
+9S - Player
+4C - Dealer
+7H - Player
+4C - Dealer
+7D - Dealer
+9D - Dealer
 
-[2025-04-26 15:55:19]
+[2025-05-18 13:56:40]
+9S - Player
+7H - Player
+7D - Dealer
+9S - Player
+10D - Dealer
+7H - Player
+7C - Dealer
+
+[2025-05-18 13:56:40]
+7H - Player
+7H - Player
+9S - Player
+10D - Dealer
+9S - Player
+4C - Dealer
+7D - Dealer
 5C - Dealer
 
-[2025-04-26 15:55:19]
-3C - Dealer
+[2025-05-18 13:56:40]
+7H - Player
+9S - Player
+9S - Player
+10D - Dealer
+4C - Dealer
+7H - Player
+4C - Dealer
+10D - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:40]
+7H - Player
+9S - Player
+10D - Dealer
+7H - Player
+9S - Player
+10C - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:40]
+7H - Player
+9S - Player
+10D - Dealer
+9S - Player
+4C - Dealer
+7H - Player
+4C - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:40]
+9S - Player
+7H - Player
+9S - Player
+7H - Player
+10D - Dealer
+7D - Dealer
+4C - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:40]
+9S - Player
+7H - Player
+7H - Player
+10D - Dealer
+9S - Player
+4C - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:41]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+9D - Dealer
+10D - Dealer
+4C - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:41]
+9S - Player
+7H - Player
+7H - Player
+10D - Dealer
+9S - Player
+4C - Dealer
+4C - Dealer
+7D - Dealer
+
+Confirmed cards: 7H, 7H, 9S, 9S, 9S, 9S, 7H, 9S, 9S, 7H, 7H, 9S, 9S, 7H, 7H, 7H, 7H, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 7H, 9S, 7H, 7H, 9S, 7H, 7H, 9S, 9S, 7H, 7H, 9S, 9S, 7H, 9S, 9S, 9S, 7H, 9S, 9S, 9S, 7H, 7H, 9S, 9S, 9S, 7H, 7H, 7H, 9S, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 9S, 9S, 7H, 7H, 9S, 9S, 7H, 7H, 9S, 9S, 9S, 9S, 7H, 7H, 7H, 9S, 7H, 9S, 9S, 9S, 9S, 9S, 7H, 7H, 9S, 9S, 7H, 9S, 7H, 7H, 9S, 9S, 7H, 7H, 7H, 7H, 7H, 9S, 7H, 7H, 7H, 7H, 7H, 9S, 7H, 7H, 7H, 7H, 7H, 7H, 9S, 9S, 9S, 7H, 9S, 9S
+[2025-05-18 13:56:41]
+7D - Dealer
+9S - Player
+9S - Player
+10D - Dealer
+7H - Player
+7H - Player
+4C - Dealer
+9C - Dealer
+
+[2025-05-18 13:56:41]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+10D - Dealer
+4C - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:41]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+4C - Dealer
+4C - Dealer
+7D - Dealer
+10D - Dealer
+
+[2025-05-18 13:56:42]
+7H - Player
+9S - Player
+9S - Player
+10D - Dealer
+4C - Dealer
+4C - Dealer
+7H - Player
+7D - Dealer
+
+[2025-05-18 13:56:42]
+7H - Player
+7H - Player
+4C - Dealer
+9S - Player
+9S - Player
+10D - Dealer
+4C - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:42]
+9S - Player
+7H - Player
+10D - Dealer
+9S - Player
+7H - Player
+4C - Dealer
+4C - Dealer
 5C - Dealer
 
-[2025-04-26 15:55:19]
-3C - Dealer
-2C - Dealer
+[2025-05-18 13:56:42]
+10D - Dealer
+10D - Dealer
+7H - Player
+9S - Player
+4C - Dealer
+9S - Player
+4C - Dealer
+7H - Player
 
-[2025-04-26 15:55:20]
+[2025-05-18 13:56:42]
+10D - Dealer
+7H - Player
+4C - Dealer
+9S - Player
+9S - Player
+10D - Dealer
+4C - Dealer
+7H - Player
+
+[2025-05-18 13:56:42]
+10D - Dealer
+7H - Player
+9S - Player
+7H - Player
+9S - Player
+4C - Dealer
+9C - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:43]
+10D - Dealer
+9S - Player
+10D - Dealer
+7H - Player
+9S - Player
+7H - Player
+4C - Dealer
+9C - Dealer
+
+[2025-05-18 13:56:43]
+7H - Player
+9S - Player
+9S - Player
+10D - Dealer
+7H - Player
+4C - Dealer
+4C - Dealer
+10D - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:43]
+7H - Player
+9S - Player
+9S - Player
 5C - Dealer
-3C - Dealer
+9D - Dealer
+9D - Dealer
+4C - Dealer
+7H - Player
 
-[2025-04-26 15:55:20]
-3C - Dealer
+[2025-05-18 13:56:43]
+7H - Player
+9S - Player
+9S - Player
+10D - Dealer
+7H - Player
+4C - Dealer
+5C - Dealer
+7D - Dealer
 
-[2025-04-26 15:55:20]
-3C - Dealer
-3C - Dealer
+[2025-05-18 13:56:43]
+7H - Player
+9S - Player
+9S - Player
+7H - Player
+7D - Dealer
+4C - Dealer
+7D - Dealer
 
-[2025-04-26 15:55:20]
-3C - Dealer
-3C - Dealer
+[2025-05-18 13:56:43]
+7H - Player
+9S - Player
+9S - Player
+4C - Dealer
+7D - Dealer
+10D - Dealer
+7H - Player
+4C - Dealer
 
-[2025-04-26 15:55:20]
-3C - Dealer
-3C - Dealer
+[2025-05-18 13:56:43]
+7H - Player
+9S - Player
+9S - Player
+4C - Dealer
+7H - Player
+7D - Dealer
+9D - Dealer
+10C - Dealer
+4C - Dealer
 
-[2025-04-26 15:55:20]
-3C - Dealer
-3C - Dealer
+[2025-05-18 13:56:43]
+9S - Player
+7H - Player
+9S - Player
+4C - Dealer
+7H - Player
+7D - Dealer
+JH - Player
+10D - Dealer
+5C - Dealer
 
-[2025-04-26 15:55:20]
-3C - Dealer
-3C - Dealer
+[2025-05-18 13:56:43]
+9S - Player
+7H - Player
+7H - Player
+4C - Dealer
+9S - Player
+7D - Dealer
+9D - Dealer
+5C - Dealer
+10D - Dealer
 
-[2025-04-26 15:55:20]
-3C - Dealer
-3C - Dealer
+[2025-05-18 13:56:44]
+7D - Dealer
+9S - Player
+7H - Player
+7H - Player
+9S - Player
+4C - Dealer
+4C - Dealer
+10D - Dealer
 
-[2025-04-26 15:55:20]
-3C - Dealer
-3C - Dealer
+[2025-05-18 13:56:44]
+9S - Player
+10D - Dealer
+9S - Player
+4C - Dealer
+7D - Dealer
+7H - Player
+7H - Player
 
-[2025-04-26 15:55:20]
-3C - Dealer
-3C - Dealer
+[2025-05-18 13:56:44]
+9S - Player
+7H - Player
+7H - Player
+7S - Player
+4C - Dealer
+4C - Dealer
+9S - Player
+10D - Dealer
 
-[2025-04-26 15:55:21]
-3C - Dealer
-3C - Dealer
+[2025-05-18 13:56:44]
+7D - Dealer
+7S - Player
+9S - Player
+7H - Player
+4C - Dealer
+10D - Dealer
+9S - Player
+7H - Player
+5C - Dealer
 
-[2025-04-26 15:55:21]
-3C - Dealer
-3C - Dealer
+[2025-05-18 13:56:44]
+7S - Player
+10D - Dealer
+9S - Player
+9S - Player
+7H - Player
+7H - Player
+JH - Player
+7C - Dealer
+4C - Dealer
+10D - Dealer
+5C - Dealer
+9D - Dealer
 
-[2025-04-26 15:55:21]
-3C - Dealer
-3C - Dealer
+Confirmed cards: 9S, 7H, 9S, 7H, 7H, 4C, 4C, 4C, 7H, 4C, 4C, 4C, 4C, 9S, 9S, 9S, 4C, 4C, 9S, 9S, 4C, 4C, 9S, 4C, 9S, 9S, 4C, 7H, 9S, 4C, 9S, 4C, 4C, 4C, 7H, 9S, 7H, 7H, 9S, 4C, 7H, 7H, 7H, 7H, 9S, 9S, 7H, 7H, 7H, 7H, 9S, 9S, 9S, 9S, 7H, 7H, 7H, 7H, 9S, 7H, 4C, 7H, 7H, 9S, 7H, 7H, 4C, 4C, 7H, 7H, 7H, 7H, 4C, 4C, 9S, 7H, 9S, 4C, 9S, 9S, 4C, 9S, 7H, 4C, 9S, 4C, 9S, 4C, 7H, 4C, 4C, 9S, 9S, 4C, 9S, 7H, 9S, 9S, 9S, 7H, 7H, 4C, 4C, 7H, 9S, 9S, 9S, 7H, 7H, 9S, 4C, 7H, 9S, 9S, 9S, 7H, 7H, 7H, 9S, 9S, 7H, 7H, 7H, 9S, 7H, 9S
+[2025-05-18 13:56:44]
+7S - Player
+7H - Player
+9S - Player
+9S - Player
+7D - Dealer
+9D - Dealer
+5C - Dealer
+7H - Player
+4C - Dealer
 
-[2025-04-26 15:55:21]
-3C - Dealer
-3C - Dealer
+[2025-05-18 13:56:44]
+9S - Player
+9S - Player
+10D - Dealer
+7H - Player
+4C - Dealer
+4C - Dealer
+9D - Dealer
+7H - Player
 
-[2025-04-26 15:55:21]
-3C - Dealer
-3C - Dealer
+[2025-05-18 13:56:44]
+9S - Player
+9S - Player
+10D - Dealer
+7H - Player
+5C - Dealer
+9D - Dealer
+7H - Player
 
-[2025-04-26 15:55:21]
-3C - Dealer
-3C - Dealer
+[2025-05-18 13:56:44]
+7H - Player
+9S - Player
+4C - Dealer
+10D - Dealer
+9S - Player
+7H - Player
+7D - Dealer
+4C - Dealer
 
-[2025-04-26 15:55:21]
-3C - Dealer
-3C - Dealer
+[2025-05-18 13:56:45]
+7H - Player
+9S - Player
+4C - Dealer
+4C - Dealer
+10D - Dealer
+9S - Player
+7H - Player
+7D - Dealer
+10D - Dealer
 
-[2025-04-26 15:55:21]
-3C - Dealer
-3C - Dealer
+[2025-05-18 13:56:45]
+7H - Player
+9S - Player
+4C - Dealer
+9S - Player
+7H - Player
+4C - Dealer
+10D - Dealer
+7D - Dealer
 
-[2025-04-26 15:55:21]
-3C - Dealer
-3C - Dealer
+[2025-05-18 13:56:45]
+9S - Player
+10D - Dealer
+7H - Player
+9S - Player
+4C - Dealer
+4C - Dealer
+9D - Dealer
+7H - Player
 
-[2025-04-26 15:55:21]
-3C - Dealer
-3C - Dealer
-9H - Player
+[2025-05-18 13:56:45]
+7H - Player
+9S - Player
+4C - Dealer
+4C - Dealer
+9S - Player
+7H - Player
+10D - Dealer
+7D - Dealer
+10D - Dealer
 
-[2025-04-26 15:55:22]
-9H - Player
-9H - Player
-3C - Dealer
-3C - Dealer
+[2025-05-18 13:56:45]
+7H - Player
+9S - Player
+9S - Player
+10D - Dealer
+7D - Dealer
+7H - Player
+4C - Dealer
+4C - Dealer
+7C - Dealer
 
-[2025-04-26 15:55:22]
-9H - Player
-3C - Dealer
-9H - Player
-3C - Dealer
+[2025-05-18 13:56:45]
+9S - Player
+10D - Dealer
+9S - Player
+7H - Player
+4C - Dealer
+10D - Dealer
+7H - Player
+7D - Player
+JS - Dealer
 
-[2025-04-26 15:55:22]
-3C - Dealer
-9H - Player
-3C - Dealer
-9H - Player
+[2025-05-18 13:56:45]
+7H - Player
+9S - Player
+9S - Player
+10D - Dealer
+7S - Dealer
+4C - Dealer
+7H - Player
+10D - Dealer
+4C - Dealer
 
-[2025-04-26 15:55:22]
-9H - Player
-3C - Dealer
-9H - Player
-3C - Dealer
+[2025-05-18 13:56:45]
+9S - Player
+7H - Player
+10D - Dealer
+9S - Player
+7S - Dealer
+7H - Player
+7D - Dealer
+5C - Dealer
+5C - Dealer
 
-[2025-04-26 15:55:22]
-3C - Dealer
-3C - Dealer
-9H - Player
-9H - Player
+[2025-05-18 13:56:45]
+7H - Player
+9S - Player
+10D - Dealer
+9S - Player
+4C - Dealer
+9D - Dealer
+7H - Player
+4C - Dealer
+JS - Dealer
 
-Confirmed cards: 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C
-[2025-04-26 15:55:22]
-9H - Player
-3C - Dealer
-9H - Player
-3C - Dealer
+[2025-05-18 13:56:46]
+9S - Player
+7C - Dealer
+10D - Dealer
+7S - Dealer
+9S - Player
+7D - Player
+7H - Player
+10D - Dealer
+4C - Dealer
 
-[2025-04-26 15:55:22]
-3C - Dealer
-9H - Player
-9H - Player
-3C - Dealer
-
-[2025-04-26 15:55:22]
-9H - Player
-3C - Dealer
-3C - Dealer
-9H - Player
-
-[2025-04-26 15:55:22]
-3C - Dealer
-9H - Player
-9H - Player
-3C - Dealer
-
-[2025-04-26 15:55:22]
-9H - Player
-9H - Player
-3C - Dealer
-3C - Dealer
-
-[2025-04-26 15:55:23]
-9H - Player
-3C - Dealer
-9H - Player
-3C - Dealer
-
-[2025-04-26 15:55:23]
-9H - Player
-3C - Dealer
-9H - Player
-3C - Dealer
-
-[2025-04-26 15:55:23]
-9H - Player
-3C - Dealer
-9H - Player
-3C - Dealer
-
-[2025-04-26 15:55:23]
-9H - Player
-3C - Dealer
-9H - Player
-3C - Dealer
-
-[2025-04-26 15:55:23]
-9H - Player
-3C - Dealer
-9H - Player
-3C - Dealer
-
-[2025-04-26 15:55:23]
-3C - Dealer
-9H - Player
-9H - Player
-3C - Dealer
-
-[2025-04-26 15:55:23]
-9H - Player
-3C - Dealer
-9H - Player
-3C - Dealer
-
-[2025-04-26 15:55:23]
-9H - Player
-3C - Dealer
-9H - Player
-3C - Dealer
-
-[2025-04-26 15:55:23]
-9H - Player
-3C - Dealer
-3C - Dealer
-9H - Player
-
-[2025-04-26 15:55:23]
-9H - Player
-3C - Dealer
-9H - Player
-3C - Dealer
-
-[2025-04-26 15:55:24]
-9H - Player
-3C - Dealer
-3C - Dealer
-9H - Player
-
-[2025-04-26 15:55:24]
-9H - Player
-3C - Dealer
-3C - Dealer
-9H - Player
-
-[2025-04-26 15:55:24]
-9H - Player
-3C - Dealer
-3C - Dealer
-9H - Player
-
-[2025-04-26 15:55:24]
-9H - Player
-3C - Dealer
-9H - Player
-3C - Dealer
-
-[2025-04-26 15:55:24]
-9H - Player
-3C - Dealer
-9H - Player
-3C - Dealer
-
-[2025-04-26 15:55:24]
-9H - Player
-3C - Dealer
-3C - Dealer
-9H - Player
-
-[2025-04-26 15:55:24]
-9H - Player
-3C - Dealer
-3C - Dealer
-9H - Player
-
-[2025-04-26 15:55:24]
-9H - Player
-3C - Dealer
-3C - Dealer
-9H - Player
-
-[2025-04-26 15:55:24]
-9H - Player
-3C - Dealer
-3C - Dealer
-9H - Player
-
-[2025-04-26 15:55:24]
-9H - Player
-3C - Dealer
-3C - Dealer
-9H - Player
-
-[2025-04-26 15:55:25]
-9H - Player
-3C - Dealer
-3C - Dealer
-9H - Player
-
-[2025-04-26 15:55:25]
-9H - Player
-3C - Dealer
-3C - Dealer
-9H - Player
-
-[2025-04-26 15:55:25]
-9H - Player
-3C - Dealer
-3C - Dealer
-9H - Player
-
-[2025-04-26 15:55:25]
-9H - Player
-3C - Dealer
-9H - Player
-3C - Dealer
-
-[2025-04-26 15:55:25]
-9H - Player
-3C - Dealer
-9H - Player
-3C - Dealer
-
-[2025-04-26 15:55:25]
-9H - Player
-3C - Dealer
-3C - Dealer
+[2025-05-18 13:56:46]
+7H - Player
+7S - Dealer
+7H - Player
+7C - Dealer
+7S - Dealer
+7D - Dealer
+9S - Player
+7C - Dealer
+9D - Dealer
+9S - Player
+10D - Dealer
 9H - Player
 
-[2025-04-26 15:55:25]
-9H - Player
-3C - Dealer
-3C - Dealer
-9H - Player
+[2025-05-18 13:56:46]
+7H - Player
+9S - Player
+7H - Player
+7S - Dealer
+4C - Dealer
+9S - Player
+10D - Dealer
+7S - Dealer
+9D - Dealer
+10C - Dealer
 
-Confirmed cards: 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 3C, 9H, 9H, 9H, 9H, 9H, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 9H, 3C, 3C, 3C, 3C, 3C, 9H, 9H, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 9H, 3C, 3C, 3C, 3C, 3C, 3C, 9H, 9H, 3C, 3C, 3C, 3C, 3C, 9H, 9H, 9H, 3C, 3C, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 3C, 3C, 3C, 9H, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 3C, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H, 9H
-[2025-04-26 15:55:25]
-9H - Player
-3C - Dealer
-3C - Dealer
-9H - Player
+[2025-05-18 13:56:46]
+7H - Player
+9S - Player
+7S - Dealer
+10D - Dealer
+7H - Player
+10D - Dealer
+7S - Dealer
+4C - Dealer
+9S - Player
+4C - Dealer
 
-[2025-04-26 15:55:25]
-9H - Player
-3C - Dealer
-9H - Player
-3C - Dealer
+[2025-05-18 13:56:46]
+7H - Player
+7H - Player
+9S - Player
+7S - Dealer
+9S - Player
+10D - Dealer
+7S - Dealer
+10D - Dealer
+4C - Dealer
+10C - Dealer
 
-[2025-04-26 15:55:25]
-9H - Player
-3C - Dealer
-3C - Dealer
-9H - Player
+[2025-05-18 13:56:46]
+7H - Player
+9S - Player
+7S - Dealer
+9S - Player
+7H - Player
+7S - Dealer
+4C - Dealer
+7D - Dealer
+4C - Dealer
 
-[2025-04-26 15:55:26]
-9H - Player
-3C - Dealer
-9H - Player
-3C - Dealer
+[2025-05-18 13:56:46]
+10D - Dealer
+7H - Player
+9S - Player
+7S - Dealer
+7S - Dealer
+4C - Dealer
+7H - Player
+9S - Player
+4C - Dealer
+10D - Dealer
 
-[2025-04-26 15:55:26]
-9H - Player
-3C - Dealer
-3C - Dealer
-9H - Player
+[2025-05-18 13:56:46]
+7H - Player
+9S - Player
+9S - Player
+7S - Dealer
+7H - Player
+7S - Dealer
+7D - Dealer
+9D - Dealer
+4C - Dealer
+4S - Dealer
+
+[2025-05-18 13:56:46]
+9S - Player
+10D - Dealer
+7H - Player
+7H - Player
+7S - Dealer
+9S - Player
+7S - Dealer
+10D - Dealer
+7C - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:46]
+9S - Player
+7S - Dealer
+10D - Dealer
+9S - Player
+7S - Dealer
+7H - Player
+4C - Dealer
+7D - Player
+5C - Dealer
+7D - Dealer
+7H - Player
+10D - Dealer
+
+[2025-05-18 13:56:47]
+7S - Dealer
+7H - Player
+9S - Player
+10D - Dealer
+7S - Dealer
+9S - Player
+9D - Dealer
+7H - Player
+4C - Dealer
+9C - Dealer
+
+[2025-05-18 13:56:47]
+7S - Dealer
+9S - Player
+7H - Player
+7H - Player
+9S - Player
+7S - Dealer
+4C - Dealer
+9D - Dealer
+7C - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:47]
+7H - Player
+9S - Player
+9S - Player
+7S - Dealer
+10D - Dealer
+7S - Dealer
+7H - Player
+10D - Dealer
+8C - Dealer
+7C - Dealer
+
+[2025-05-18 13:56:47]
+7S - Dealer
+10D - Dealer
+7H - Player
+4C - Dealer
+7S - Dealer
+9S - Player
+9S - Player
+9D - Dealer
+7D - Player
+4C - Dealer
+7H - Player
+10D - Dealer
+
+[2025-05-18 13:56:47]
+9S - Player
+7S - Dealer
+9S - Player
+7H - Player
+9C - Dealer
+4C - Dealer
+7S - Dealer
+10D - Dealer
+7D - Dealer
+7D - Player
+7H - Player
+
+[2025-05-18 13:56:47]
+10D - Dealer
+7S - Dealer
+9S - Player
+9S - Player
+7D - Dealer
+7H - Player
+4C - Dealer
+7S - Dealer
+7H - Player
+7D - Player
+7C - Dealer
+9C - Dealer
+
+[2025-05-18 13:56:47]
+7H - Player
+10D - Dealer
+9S - Player
+7C - Dealer
+9S - Player
+7S - Dealer
+4C - Dealer
+7D - Dealer
+7S - Dealer
+7H - Player
+
+Confirmed cards: 7H, 7H, 7H, 9S, 9S, 7H, 9S, 9S, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 9S, 9S, 9S, 9S, 9S, 9S, 7H, 9S, 9S, 9S, 9S, 9S, 9S, 7H, 7H, 9S, 9S, 9S, 7H, 7H, 7H, 9S, 7H, 7H, 7H, 9S, 7H, 7H, 7H, 7H, 7H, 9S, 9S, 7H, 7H, 9S, 7H, 7H, 7H, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 7H, 7H, 7H, 7H, 7H, 9S, 7H, 7H, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 7H, 7H, 7H, 9S, 9S, 7H, 9S, 9S, 7H, 7H, 9S, 9S, 9S, 7H, 7H, 7H, 7H, 7H, 7H, 9S, 7H, 9S, 9S, 7H, 7H, 7H, 7H, 9S, 7H, 7H, 7H, 9S, 9S, 7H, 9S, 7H, 9S, 9S
+[2025-05-18 13:56:47]
+7S - Dealer
+10D - Dealer
+7H - Player
+9S - Player
+9S - Player
+7S - Dealer
+7H - Player
+9C - Dealer
+5C - Dealer
+7C - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:47]
+7S - Dealer
+7H - Player
+9S - Player
+7H - Player
+9S - Player
+7S - Dealer
+4C - Dealer
+10D - Dealer
+4C - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:47]
+7H - Player
+7H - Player
+7S - Dealer
+10D - Dealer
+9S - Player
+9S - Player
+4C - Dealer
+4C - Dealer
+7C - Dealer
+9D - Dealer
+7S - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:48]
+7H - Player
+9S - Player
+10D - Dealer
+9S - Player
+7S - Dealer
+7H - Player
+7S - Dealer
+4C - Dealer
+7D - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:48]
+7H - Player
+9S - Player
+7S - Dealer
+9S - Player
+7H - Player
+7S - Dealer
+7D - Dealer
+7C - Dealer
+10D - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:48]
+7H - Player
+10D - Dealer
+9S - Player
+7S - Dealer
+10D - Dealer
+7H - Player
+9S - Player
+7S - Dealer
+7C - Dealer
+4C - Dealer
+8C - Dealer
+
+[2025-05-18 13:56:48]
+7H - Player
+7H - Player
+10D - Dealer
+7S - Dealer
+9S - Player
+9S - Player
+4C - Dealer
+4C - Dealer
+7C - Dealer
+7D - Dealer
+9D - Dealer
+7S - Dealer
+
+[2025-05-18 13:56:48]
+7H - Player
+7S - Dealer
+10D - Dealer
+4C - Dealer
+9S - Player
+7H - Player
+9S - Player
+7C - Dealer
+9D - Dealer
+7C - Dealer
+7S - Dealer
+
+[2025-05-18 13:56:48]
+9S - Player
+7H - Player
+7H - Player
+7S - Dealer
+9S - Player
+10D - Dealer
+4C - Dealer
+9D - Dealer
+5C - Dealer
+7C - Dealer
+7S - Dealer
+
+[2025-05-18 13:56:48]
+7H - Player
+7H - Player
+9S - Player
+9S - Player
+7S - Dealer
+4C - Dealer
+7S - Dealer
+4C - Dealer
+10D - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:48]
+7S - Dealer
+10D - Dealer
+9S - Player
+7S - Dealer
+9S - Player
+7H - Player
+7H - Player
+7C - Dealer
+9D - Dealer
+6C - Dealer
+
+[2025-05-18 13:56:48]
+7H - Player
+9S - Player
+9S - Player
+7S - Dealer
+7H - Player
+7S - Dealer
+4C - Dealer
+10D - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:48]
+7H - Player
+7C - Dealer
+9S - Player
+7S - Dealer
+9S - Player
+10D - Dealer
+7H - Player
+10D - Dealer
+4C - Dealer
+7S - Dealer
+
+[2025-05-18 13:56:49]
+10D - Dealer
+9S - Player
+7C - Dealer
+10D - Dealer
+4C - Dealer
+7H - Player
+9S - Player
+7S - Dealer
+7H - Player
+7S - Dealer
+
+[2025-05-18 13:56:49]
+7H - Player
+9S - Player
+7S - Dealer
+9S - Player
+7H - Player
+7C - Dealer
+7S - Dealer
+10D - Dealer
+10D - Dealer
+5C - Dealer
+
+[2025-05-18 13:56:49]
+9S - Player
+7S - Dealer
+9S - Player
+7S - Dealer
+9D - Dealer
+7C - Dealer
+7H - Player
+7H - Player
+4C - Dealer
+10D - Dealer
+7C - Dealer
+
+[2025-05-18 13:56:49]
+9S - Player
+10D - Dealer
+7S - Dealer
+9S - Player
+7H - Player
+7H - Player
+10D - Dealer
+7S - Dealer
+5C - Dealer
+9C - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:49]
+7S - Dealer
+9S - Player
+7H - Player
+7S - Dealer
+9S - Player
+7H - Player
+7D - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:49]
+7S - Dealer
+9S - Player
+10D - Dealer
+9S - Player
+7H - Player
+7S - Dealer
+7C - Dealer
+7H - Player
+7D - Dealer
+4C - Dealer
+7C - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:49]
+7H - Player
+9S - Player
+7S - Dealer
+9S - Player
+7S - Dealer
+4C - Dealer
+7H - Player
+10D - Dealer
+7D - Dealer
+4S - Dealer
+
+[2025-05-18 13:56:49]
+7H - Player
+9S - Player
+9S - Player
+7S - Dealer
+10D - Dealer
+7D - Dealer
+4C - Dealer
+4C - Dealer
+7H - Player
+7C - Dealer
+
+[2025-05-18 13:56:49]
+9S - Player
+7H - Player
+7S - Dealer
+7D - Dealer
+9S - Player
+7H - Player
+7S - Dealer
+7C - Dealer
+9D - Dealer
+7C - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:49]
+9S - Player
+7H - Player
+7S - Dealer
+7D - Dealer
+7H - Player
+9S - Player
+7S - Dealer
+7C - Dealer
+9D - Dealer
+8C - Dealer
+
+[2025-05-18 13:56:50]
+9S - Player
+7S - Dealer
+10D - Dealer
+7H - Player
+7H - Player
+9S - Player
+10D - Dealer
+7S - Dealer
+8C - Dealer
+5C - Dealer
+7S - Dealer
+
+[2025-05-18 13:56:50]
+7H - Player
+9S - Player
+10D - Dealer
+7S - Dealer
+7S - Dealer
+7H - Player
+9S - Player
+4C - Dealer
+7C - Dealer
+9D - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:50]
+9S - Player
+7H - Player
+7H - Player
+10D - Dealer
+7S - Dealer
+7C - Dealer
+9S - Player
+7S - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:50]
+9S - Player
+7H - Player
+7S - Dealer
+7H - Player
+10D - Dealer
+9S - Player
+7S - Dealer
+9D - Dealer
+5C - Dealer
+
+[2025-05-18 13:56:50]
+7H - Player
+9S - Player
+10D - Dealer
+9S - Player
+7S - Dealer
+7S - Dealer
+4C - Dealer
+7D - Dealer
+7H - Player
+
+[2025-05-18 13:56:50]
+9S - Player
+7H - Player
+7S - Dealer
+10D - Dealer
+9S - Player
+7C - Dealer
+9C - Dealer
+7H - Player
+5C - Dealer
+9D - Dealer
+10D - Dealer
+
+[2025-05-18 13:56:50]
+9S - Player
+7H - Player
+10D - Dealer
+7S - Dealer
+9S - Player
+7C - Dealer
+7H - Player
+7S - Dealer
+9D - Dealer
+10D - Dealer
+
+[2025-05-18 13:56:50]
+9S - Player
+7D - Dealer
+7S - Dealer
+7S - Dealer
+9S - Player
+7H - Player
+7D - Dealer
+7H - Player
+7C - Dealer
+7C - Dealer
+
+[2025-05-18 13:56:50]
+9S - Player
+7C - Dealer
+7D - Dealer
+7S - Dealer
+9S - Player
+7D - Dealer
+7H - Player
+7C - Dealer
+7S - Dealer
+7H - Player
+
+Confirmed cards: 7H, 7H, 9S, 7H, 9S, 7S, 7S, 7S, 7H, 7H, 9S, 9S, 9S, 7H, 7S, 7S, 7S, 7S, 9S, 7H, 9S, 7H, 7H, 9S, 7S, 7H, 7H, 7H, 7S, 7S, 7H, 7H, 9S, 7S, 7S, 7S, 7S, 7S, 7S, 9S, 9S, 7S, 7S, 9S, 7S, 7S, 7H, 9S, 9S, 9S, 7H, 7H, 7S, 9S, 9S, 9S, 7H, 7S, 7S, 9S, 9S, 9S, 9S, 9S, 7H, 7H, 9S, 7H, 7S, 7H, 7H, 9S, 9S, 7H, 7H, 9S, 7H, 7S, 7S, 7H, 7S, 9S, 9S, 7S, 7S, 7H, 7H, 7S, 7S, 7H, 7H, 7S, 7H, 7H, 7S, 7H, 9S, 7S, 7H, 7S, 9S, 9S, 7S, 7S, 7S, 7H, 7S, 7S, 7S, 7S, 7S, 7S, 7S, 7H, 7H, 7S, 7S, 7S, 7S, 7S, 7S, 9S, 7S, 9S, 7H, 7H, 7S, 9S, 9S, 7H, 7S, 9S, 7H, 7H, 9S, 9S, 7S, 7S, 7S, 9S, 7H, 7H, 9S, 7H, 9S, 7S, 7H, 9S, 9S, 9S, 9S, 7S, 7S, 9S, 7H, 9S, 7S, 9S, 9S, 7S, 9S, 9S, 7S, 7H, 7H, 9S, 9S, 7H, 7H, 9S, 9S, 9S, 9S, 9S, 7H, 7H, 7H, 9S, 7H, 7H, 7H, 7H, 7H, 7H, 7H, 9S, 7H, 7H, 9S, 9S, 9S
+[2025-05-18 13:56:50]
+9S - Player
+7H - Player
+7S - Dealer
+10D - Dealer
+7H - Player
+7C - Dealer
+9S - Player
+7C - Dealer
+7D - Dealer
+7S - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:51]
+10D - Dealer
+9S - Player
+7S - Dealer
+7H - Player
+7H - Player
+7S - Dealer
+7C - Dealer
+9S - Player
+5C - Dealer
+7D - Dealer
+10D - Dealer
+
+[2025-05-18 13:56:51]
+7H - Player
+7S - Dealer
+7C - Dealer
+9S - Player
+9S - Player
+7S - Dealer
+10D - Dealer
+7H - Player
+10D - Dealer
+
+[2025-05-18 13:56:51]
+7H - Player
+7H - Player
+10D - Dealer
+9S - Player
+7S - Dealer
+10D - Dealer
+9S - Player
+7S - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:51]
+7H - Player
+7S - Dealer
+7S - Dealer
+9S - Player
+10D - Dealer
+9S - Player
+7H - Player
+7C - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:51]
+7H - Player
+9S - Player
+7S - Dealer
+9S - Player
+10D - Dealer
+7C - Dealer
+7S - Dealer
+7H - Player
+7C - Dealer
+
+[2025-05-18 13:56:51]
+7H - Player
+9S - Player
+7S - Dealer
+9S - Player
+10D - Dealer
+7S - Dealer
+7D - Dealer
+7C - Dealer
+4C - Dealer
+7C - Dealer
+
+[2025-05-18 13:56:51]
+7H - Player
+7S - Dealer
+10D - Dealer
+9S - Player
+9S - Player
+7C - Dealer
+7S - Dealer
+7D - Dealer
+5C - Dealer
+
+[2025-05-18 13:56:51]
+7S - Dealer
+9S - Player
+10D - Dealer
+7H - Player
+9S - Player
+7S - Dealer
+7C - Dealer
+7H - Player
+7D - Dealer
+9C - Dealer
+
+[2025-05-18 13:56:51]
+7S - Dealer
+9S - Player
+10D - Dealer
+9S - Player
+7S - Dealer
+7C - Dealer
+7H - Player
+JH - Player
+7H - Player
+9C - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:51]
+7S - Dealer
+9S - Player
+4C - Dealer
+10D - Dealer
+7S - Dealer
+9S - Player
+9D - Dealer
+7H - Player
+7C - Dealer
+JH - Player
+7H - Player
+
+[2025-05-18 13:56:52]
+7S - Dealer
+10D - Dealer
+9S - Player
+7H - Player
+9S - Player
+7S - Dealer
+7D - Dealer
+7C - Dealer
+7H - Player
+
+[2025-05-18 13:56:52]
+7S - Dealer
+7H - Player
+10D - Dealer
+9S - Player
+9D - Dealer
+9S - Player
+7C - Dealer
+7H - Player
+4C - Dealer
+7S - Dealer
+
+[2025-05-18 13:56:52]
+7S - Dealer
+9S - Player
+10D - Dealer
+7S - Dealer
+7H - Player
+9S - Player
+7H - Player
+7C - Dealer
+10D - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:52]
+7H - Player
+7S - Dealer
+7S - Dealer
+9S - Player
+10D - Dealer
+7D - Dealer
+9S - Player
+7C - Dealer
+9C - Dealer
+7H - Player
+JH - Player
+
+[2025-05-18 13:56:52]
+7H - Player
+7S - Dealer
+9S - Player
+7S - Dealer
+9S - Player
+9D - Dealer
+7D - Dealer
+8C - Dealer
+5C - Dealer
+7H - Player
+JH - Player
+7C - Dealer
+
+[2025-05-18 13:56:52]
+7S - Dealer
+7S - Dealer
+7H - Player
+9S - Player
+9D - Dealer
+9S - Player
+7H - Player
+5C - Dealer
+4C - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:52]
+10D - Dealer
+7H - Player
+7S - Dealer
+7S - Dealer
+9S - Player
+4C - Dealer
+9S - Player
+7C - Dealer
+9D - Dealer
+7H - Player
+JH - Player
+
+[2025-05-18 13:56:52]
+9S - Player
+7S - Dealer
+7S - Dealer
+9S - Player
+9D - Dealer
+9D - Dealer
+7H - Player
+7H - Player
+4C - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:52]
+7S - Dealer
+9S - Player
+10D - Dealer
+7S - Dealer
+7H - Player
+9D - Dealer
+7H - Player
+9S - Player
+7C - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:52]
+7S - Dealer
+9S - Player
+7S - Dealer
+7H - Player
+9S - Player
+7D - Dealer
+7D - Dealer
+7H - Player
+7C - Dealer
+4C - Dealer
+JH - Player
+
+[2025-05-18 13:56:53]
+7S - Dealer
+9S - Player
+7H - Player
+7D - Dealer
+7S - Dealer
+9S - Player
+JH - Player
+9D - Dealer
+4C - Dealer
+7C - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:53]
+9S - Player
+7S - Dealer
+7H - Player
+7D - Dealer
+9S - Player
+7S - Dealer
+4C - Dealer
+JH - Player
+7D - Dealer
+7H - Player
+7C - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:53]
+7H - Player
+7S - Dealer
+7S - Dealer
+9S - Player
+9S - Player
+7D - Dealer
+7D - Dealer
+7H - Player
+7C - Dealer
+9C - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:53]
+7H - Player
+7S - Dealer
+9S - Player
+9S - Player
+7S - Dealer
+JH - Player
+10D - Dealer
+7D - Dealer
+4C - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:53]
+7H - Player
+7S - Dealer
+9S - Player
+7S - Dealer
+9S - Player
+9D - Dealer
+9D - Dealer
+7H - Player
+7C - Dealer
+5C - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:53]
+7H - Player
+7S - Dealer
+10D - Dealer
+9S - Player
+7S - Dealer
+9S - Player
+4C - Dealer
+7C - Dealer
+7H - Player
+7D - Dealer
+
+[2025-05-18 13:56:53]
+7H - Player
+7S - Dealer
+7D - Dealer
+9S - Player
+9S - Player
+10D - Dealer
+7C - Dealer
+7H - Player
+7S - Dealer
+7C - Dealer
+
+[2025-05-18 13:56:53]
+7H - Player
+7C - Dealer
+7S - Dealer
+9S - Player
+9S - Player
+7S - Dealer
+7H - Player
+10D - Dealer
+9D - Dealer
+7C - Dealer
+JH - Player
+
+[2025-05-18 13:56:53]
+7H - Player
+10D - Dealer
+9S - Player
+9S - Player
+7S - Dealer
+7H - Player
+7S - Dealer
+7D - Dealer
+4C - Dealer
+9C - Dealer
+
+[2025-05-18 13:56:53]
+7H - Player
+9S - Player
+7S - Dealer
+10D - Dealer
+9S - Player
+7H - Player
+10D - Dealer
+7S - Dealer
+4C - Dealer
+7C - Dealer
+
+[2025-05-18 13:56:54]
+7H - Player
+9S - Player
+7S - Dealer
+9S - Player
+10D - Dealer
+7S - Dealer
+7C - Dealer
+7H - Player
+7C - Dealer
+10D - Dealer
+9D - Dealer
+
+Confirmed cards: 7H, 7H, 9S, 9S, 7H, 9S, 7H, 7S, 7H, 9S, 9S, 9S, 7S, 7H, 7H, 9S, 7S, 7H, 7H, 7H, 7H, 7S, 7S, 7S, 7S, 7H, 7S, 7S, 7H, 7H, 7S, 7S, 7S, 7S, 7S, 7S, 7S, 7S, 7S, 7S, 9S, 7S, 7S, 9S, 7S, 7H, 7S, 9S, 7H, 7H, 7H, 9S, 7H, 9S, 9S, 9S, 7H, 7S, 9S, 7S, 9S, 7H, 7S, 9S, 9S, 9S, 7H, 7S, 7S, 7S, 9S, 9S, 7S, 7H, 7H, 7S, 7S, 7S, 7H, 9S, 7S, 7H, 7H, 7S, 7H, 9S, 7H, 9S, 7H, 9S, 7H, 7S, 7S, 7S, 7H, 7S, 7S, 7S, 9S, 7H, 7S, 9S, 7S, 9S, 7S, 7S, 7S, 7S, 7S, 9S, 9S, 7H, 9S, 9S, 9S, 7S, 7S, 7S, 7H, 7H, 9S, 9S, 7S, 7S, 7H, 7H, 9S, 9S, 7S, 7S, 7S, 7S, 7S, 9S, 9S, 7H, 9S, 7S, 9S, 7H, 7H, 7S, 7S, 9S, 7S, 9S, 7H, 9S, 9S, 7S, 9S, 7S, 9S, 7H, 9S, 9S, 9S, 9S, 7H, 9S, 9S, 7H, 9S, 7H, 7H, 9S, 7H, 7H, 7H, 7H, 7H, 7H, 9S, 9S, 9S, 7H, 7H, 7H, 7H, 9S, 9S, 9S, 9S, 9S, 9S, 7H, 7H, 7H
+[2025-05-18 13:56:54]
+7H - Player
+9S - Player
+7S - Dealer
+9S - Player
+7D - Dealer
+7H - Player
+7S - Dealer
+5C - Dealer
+9C - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:54]
+7H - Player
+9S - Player
+7S - Dealer
+9S - Player
+7D - Dealer
+7S - Dealer
+7H - Player
+4C - Dealer
+10D - Dealer
+7C - Dealer
+
+[2025-05-18 13:56:54]
+7H - Player
+9S - Player
+7S - Dealer
+9S - Player
+7S - Dealer
+7H - Player
+10D - Dealer
+9C - Dealer
+10D - Dealer
+9C - Dealer
+5C - Dealer
+
+[2025-05-18 13:56:54]
+7H - Player
+9S - Player
+7S - Dealer
+10D - Dealer
+9S - Player
+7H - Player
+10D - Dealer
+4C - Dealer
+7C - Dealer
+7S - Dealer
+
+[2025-05-18 13:56:54]
+7H - Player
+7H - Player
+9S - Player
+9S - Player
+7S - Dealer
+9C - Dealer
+7D - Dealer
+7S - Dealer
+10D - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:54]
+9S - Player
+7S - Dealer
+9S - Player
+7H - Player
+7S - Dealer
+4C - Dealer
+7D - Dealer
+10D - Dealer
+7C - Dealer
+
+[2025-05-18 13:56:54]
+7H - Player
+9S - Player
+7S - Dealer
+7H - Player
+9S - Player
+10D - Dealer
+7D - Dealer
+7S - Dealer
+7C - Dealer
+4C - Dealer
+4C - Dealer
+7C - Dealer
+
+[2025-05-18 13:56:54]
+7H - Player
+9S - Player
+9S - Player
+7S - Dealer
+7D - Dealer
+7S - Dealer
+7H - Player
+10D - Dealer
+9C - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:54]
+4C - Dealer
+7H - Player
+7S - Dealer
+7S - Dealer
+9S - Player
+9S - Player
+10D - Dealer
+7D - Dealer
+7H - Player
+4C - Dealer
+7C - Dealer
+
+[2025-05-18 13:56:54]
+9S - Player
+9S - Player
+7S - Dealer
+7H - Player
+7D - Dealer
+4C - Dealer
+7H - Player
+7S - Dealer
+10D - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:55]
+7H - Player
+7S - Dealer
+9S - Player
+9S - Player
+7D - Dealer
+JH - Player
+10D - Dealer
+7C - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:55]
+7H - Player
+7D - Dealer
+7S - Dealer
+9S - Player
+9C - Dealer
+10D - Dealer
+7S - Dealer
+9S - Player
+7C - Dealer
+JH - Player
+9C - Dealer
+
+[2025-05-18 13:56:55]
+7S - Dealer
+7H - Player
+9S - Player
+9S - Player
+9C - Dealer
+4C - Dealer
+4C - Dealer
+7D - Dealer
+7H - Player
+9D - Dealer
+JS - Dealer
+
+[2025-05-18 13:56:55]
+7C - Dealer
+7H - Player
+9S - Player
+9S - Player
+4C - Dealer
+7S - Dealer
+9D - Dealer
+9C - Dealer
+7D - Dealer
+7H - Player
+JS - Dealer
+7S - Dealer
+
+[2025-05-18 13:56:55]
+7H - Player
+9S - Player
+7S - Dealer
+9S - Player
+4C - Dealer
+9C - Dealer
+7H - Player
+7D - Dealer
+4C - Dealer
+7S - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:55]
+7H - Player
+7S - Dealer
+9S - Player
+9D - Dealer
+9S - Player
+7H - Player
+9C - Dealer
+4C - Dealer
+4C - Dealer
+7S - Dealer
+7C - Dealer
+7D - Dealer
+
+[2025-05-18 13:56:55]
+7H - Player
+9S - Player
+10D - Dealer
+10D - Dealer
+7S - Dealer
+9S - Player
+7C - Dealer
+9C - Dealer
+7S - Dealer
+4C - Dealer
+7H - Player
+
+[2025-05-18 13:56:55]
+7H - Player
+9S - Player
+7S - Dealer
+7D - Dealer
+9C - Dealer
+9S - Player
+7S - Dealer
+10D - Dealer
+9C - Dealer
+7H - Player
+
+[2025-05-18 13:56:55]
+7H - Player
+9C - Dealer
+7S - Dealer
+9S - Player
+9S - Player
+10D - Dealer
+10D - Dealer
+7H - Player
+9C - Dealer
+
+[2025-05-18 13:56:56]
+9C - Dealer
+7S - Dealer
+7H - Player
+9S - Player
+9S - Player
+10D - Dealer
+4C - Dealer
+7H - Player
+4C - Dealer
+10D - Dealer
+
+[2025-05-18 13:56:56]
+9S - Player
+7H - Player
+9S - Player
+7S - Dealer
+7C - Dealer
+7H - Player
+7C - Dealer
+7D - Dealer
+7S - Dealer
+10D - Dealer
+7D - Dealer
+10D - Dealer
+
+[2025-05-18 13:56:56]
+7H - Player
+7S - Dealer
+9S - Player
+7S - Dealer
+10D - Dealer
+4C - Dealer
+4C - Dealer
+9S - Player
+7H - Player
+10D - Dealer
+
+[2025-05-18 13:56:56]
+7H - Player
+7S - Dealer
+9S - Player
+9S - Player
+10D - Dealer
+4C - Dealer
+10D - Dealer
+7H - Player
+7S - Dealer
+
+[2025-05-18 13:56:56]
+7H - Player
+10D - Dealer
+9S - Player
+7S - Dealer
+9S - Player
+7S - Dealer
+10D - Dealer
+7H - Player
+5C - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:56]
+9S - Player
+7S - Dealer
+7S - Dealer
+9S - Player
+7C - Dealer
+7H - Player
+7D - Dealer
+7C - Dealer
+7D - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:56]
+7H - Player
+7S - Dealer
+9S - Player
+10D - Dealer
+7S - Dealer
+9S - Player
+10D - Dealer
+4C - Dealer
+10C - Dealer
+4C - Dealer
+10C - Player
+10H - Player
+10C - Player
+
+[2025-05-18 13:56:56]
+7H - Player
+9C - Dealer
+7H - Player
+10D - Dealer
+9C - Dealer
+9S - Player
+7S - Dealer
+9S - Player
+10D - Dealer
+4C - Dealer
+7S - Dealer
+7C - Dealer
+9C - Dealer
+
+[2025-05-18 13:56:56]
+7H - Player
+7H - Player
+9S - Player
+7D - Dealer
+9S - Player
+9C - Dealer
+7S - Dealer
+9C - Dealer
+10D - Dealer
+9C - Dealer
+7S - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:56]
+7H - Player
+7H - Player
+10D - Dealer
+9S - Player
+7S - Dealer
+9S - Player
+9C - Dealer
+10D - Dealer
+7S - Dealer
+9C - Dealer
+7C - Dealer
+5C - Dealer
+
+[2025-05-18 13:56:57]
+7D - Dealer
+7S - Dealer
+9C - Dealer
+7S - Dealer
+9C - Dealer
+9S - Player
+9S - Player
+7H - Player
+7H - Player
+9C - Dealer
+7C - Dealer
+
+[2025-05-18 13:56:57]
+7H - Player
+9S - Player
+7D - Dealer
+7S - Dealer
+9S - Player
+7S - Dealer
+9C - Dealer
+9C - Dealer
+4C - Dealer
+7H - Player
+9D - Dealer
+9C - Dealer
+
+Confirmed cards: 7H, 9S, 9S, 7H, 7H, 7H, 9S, 7S, 7H, 7H, 9S, 9S, 9S, 7S, 7S, 7S, 7H, 7S, 7S, 7S, 7S, 7H, 7H, 7H, 7H, 9S, 7S, 7S, 7S, 7H, 7S, 7S, 7S, 9S, 7S, 7S, 7S, 7S, 7S, 9S, 7S, 9S, 9S, 9S, 7H, 9S, 7H, 7H, 7S, 7S, 7S, 9S, 9S, 7S, 7H, 7H, 7S, 9S, 7H, 7H, 7S, 7H, 7H, 7S, 7H, 7H, 9S, 9S, 9S, 7H, 7S, 7S, 9S, 7S, 9S, 7S, 7S, 7H, 7S, 9S, 7H, 7S, 7H, 7H, 7H, 7S, 9S, 7S, 7S, 7S, 9S, 7S, 9S, 7H, 7S, 7S, 7S, 7S, 7S, 7S, 7H, 9S, 9S, 7S, 7H, 9S, 7S, 7S, 9S, 7S, 9S, 7S, 7H, 7H, 9S, 7S, 7S, 7S, 9S, 9S, 7H, 9S, 9S, 7H, 7H, 9S, 9S, 7S, 7S, 7S, 7H, 7H, 9S, 7H, 7H, 7H, 7H, 7S, 9S, 9S, 9S, 9S, 9S, 9S, 7H, 7H, 9S, 9S, 9S, 9S, 9S, 7H, 9S, 7H, 7H, 7H, 9S, 9S, 9S, 9S, 9S, 9S, 9S, 7H, 7H, 7H, 9S, 7H, 9S, 7H, 9S, 7H, 7H, 9S, 9S, 7H, 7S
+[2025-05-18 13:56:57]
+4C - Dealer
+7S - Dealer
+9S - Player
+9S - Player
+9C - Dealer
+7H - Player
+7D - Dealer
+9C - Dealer
+7S - Dealer
+7D - Dealer
+7H - Player
+7C - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:57]
+7H - Player
+9C - Dealer
+7S - Dealer
+9S - Player
+9S - Player
+7H - Player
+7S - Dealer
+4C - Dealer
+7D - Dealer
+7C - Dealer
+10D - Dealer
+9D - Dealer
+9C - Dealer
+
+[2025-05-18 13:56:57]
+9C - Dealer
+7H - Player
+10D - Dealer
+9S - Player
+9S - Player
+9C - Dealer
+4C - Dealer
+7S - Dealer
+7S - Dealer
+7C - Dealer
+7H - Player
+9D - Dealer
+
+[2025-05-18 13:56:57]
+9C - Dealer
+7H - Player
+7S - Dealer
+9S - Player
+9S - Player
+4C - Dealer
+10D - Dealer
+9C - Dealer
+10D - Dealer
+7S - Dealer
+7H - Player
+7D - Dealer
+9C - Dealer
+
+[2025-05-18 13:56:57]
+9C - Dealer
+7S - Dealer
+9S - Player
+10D - Dealer
+9S - Player
+7D - Player
+9C - Dealer
+7C - Dealer
+7S - Dealer
+9C - Dealer
+9D - Dealer
+7H - Player
+4C - Dealer
+7H - Player
+4C - Dealer
+
+[2025-05-18 13:56:57]
+7H - Player
+7S - Dealer
+9C - Dealer
+4C - Dealer
+9S - Player
+9S - Player
+10D - Dealer
+7D - Dealer
+7S - Dealer
+7H - Player
+9C - Dealer
+10D - Dealer
+
+[2025-05-18 13:56:57]
+9S - Player
+7H - Player
+9C - Dealer
+7S - Dealer
+4C - Dealer
+9S - Player
+10D - Dealer
+10D - Dealer
+4C - Dealer
+7S - Dealer
+9C - Dealer
+7H - Player
+
+[2025-05-18 13:56:58]
+9S - Player
+9C - Dealer
+10D - Dealer
+7S - Dealer
+7H - Player
+9S - Player
+9C - Dealer
+4C - Dealer
+10D - Dealer
+7H - Player
+7S - Dealer
+
+[2025-05-18 13:56:58]
+9S - Player
+9C - Dealer
+9C - Dealer
+7D - Dealer
+7S - Dealer
+9S - Player
+7H - Player
+7S - Dealer
+7D - Player
+4C - Dealer
+7D - Dealer
+7H - Player
+
+[2025-05-18 13:56:58]
+7H - Player
+9C - Dealer
+9S - Player
+9C - Dealer
+9S - Player
+10D - Dealer
+7H - Player
+7S - Dealer
+7S - Dealer
+4C - Dealer
+7D - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:58]
+7S - Dealer
+9C - Dealer
+9S - Player
+4C - Dealer
+7H - Player
+4C - Dealer
+9D - Dealer
+7H - Player
+9S - Player
+10D - Dealer
+7D - Dealer
+7S - Dealer
+
+[2025-05-18 13:56:58]
+9S - Player
+9C - Dealer
+9S - Player
+4C - Dealer
+9D - Dealer
+7S - Dealer
+10D - Dealer
+7H - Player
+10C - Dealer
+7S - Dealer
+7H - Player
+
+[2025-05-18 13:56:58]
+7H - Player
+10D - Dealer
+9S - Player
+9C - Dealer
+9S - Player
+7H - Player
+9C - Dealer
+7S - Dealer
+4C - Dealer
+4C - Dealer
+9D - Dealer
+7C - Dealer
+7S - Dealer
+
+[2025-05-18 13:56:58]
+9S - Player
+7S - Dealer
+9C - Dealer
+9S - Player
+10D - Dealer
+7H - Player
+7D - Dealer
+7H - Player
+7S - Dealer
+4C - Dealer
+9C - Dealer
+5C - Dealer
+
+[2025-05-18 13:56:58]
+9S - Player
+10D - Dealer
+9S - Player
+7S - Dealer
+9C - Dealer
+7H - Player
+7D - Player
+9C - Dealer
+9D - Dealer
+4C - Dealer
+7S - Dealer
+4C - Dealer
+7C - Dealer
+
+[2025-05-18 13:56:59]
+9S - Player
+7S - Dealer
+7H - Player
+9S - Player
+4C - Dealer
+9C - Dealer
+10D - Dealer
+9C - Dealer
+4C - Dealer
+10D - Dealer
+7D - Player
+7S - Dealer
+7H - Player
+
+[2025-05-18 13:56:59]
+7H - Player
+7H - Player
+7S - Dealer
+9S - Player
+9S - Player
+9C - Dealer
+9C - Dealer
+4C - Dealer
+7D - Dealer
+7S - Dealer
+7D - Dealer
+9C - Dealer
+
+[2025-05-18 13:56:59]
+9S - Player
+7S - Dealer
+9S - Player
+9C - Dealer
+7H - Player
+7H - Player
+7D - Dealer
+4C - Dealer
+9C - Dealer
+10D - Dealer
+7C - Dealer
+
+[2025-05-18 13:56:59]
+7H - Player
+7S - Dealer
+9S - Player
+4C - Dealer
+9C - Dealer
+7D - Player
+7C - Dealer
+9C - Dealer
+10D - Dealer
+9S - Player
+7S - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:59]
+9S - Player
+7S - Dealer
+9C - Dealer
+9S - Player
+7H - Player
+9C - Dealer
+4C - Dealer
+7H - Player
+10D - Dealer
+4C - Dealer
+7D - Dealer
+7C - Dealer
+
+[2025-05-18 13:56:59]
+9C - Dealer
+9S - Player
+10D - Dealer
+7S - Dealer
+9S - Player
+7H - Player
+9C - Dealer
+4C - Dealer
+7H - Player
+9D - Dealer
+7C - Dealer
+7C - Dealer
+4C - Dealer
+
+[2025-05-18 13:56:59]
+7H - Player
+9C - Dealer
+7H - Player
+7S - Dealer
+9S - Player
+9S - Player
+7D - Dealer
+4C - Dealer
+9D - Dealer
+9C - Dealer
+5C - Dealer
+7S - Dealer
+
+[2025-05-18 13:56:59]
+7H - Player
+9C - Dealer
+9C - Dealer
+7D - Dealer
+7S - Dealer
+9S - Player
+9S - Player
+7H - Player
+4C - Dealer
+4C - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:59]
+9S - Player
+7H - Player
+7H - Player
+9C - Dealer
+9S - Player
+7S - Dealer
+9C - Dealer
+7S - Dealer
+10D - Dealer
+4C - Dealer
+4C - Dealer
+9D - Dealer
+
+[2025-05-18 13:56:59]
+7H - Player
+9C - Dealer
+9S - Player
+9S - Player
+7H - Player
+9C - Dealer
+7D - Dealer
+7S - Dealer
+4C - Dealer
+10S - Dealer
+4C - Dealer
+10D - Dealer
+7S - Dealer
+
+[2025-05-18 13:57:00]
+9S - Player
+9C - Dealer
+7H - Player
+9C - Dealer
+9D - Dealer
+7H - Player
+9S - Player
+7S - Dealer
+4C - Dealer
+7S - Dealer
+4C - Dealer
+9D - Dealer
+
+[2025-05-18 13:57:00]
+9S - Player
+7H - Player
+7S - Dealer
+9S - Player
+9C - Dealer
+4C - Dealer
+7S - Dealer
+9C - Dealer
+7H - Player
+10D - Dealer
+9C - Dealer
+7D - Dealer
+7D - Dealer
+
+[2025-05-18 13:57:00]
+7H - Player
+9C - Dealer
+9S - Player
+9S - Player
+7D - Dealer
+9C - Dealer
+7S - Dealer
+7H - Player
+4C - Dealer
+7C - Dealer
+7S - Dealer
+7C - Dealer
+9D - Dealer
+
+Confirmed cards: 7H, 7H, 9S, 7H, 9S, 7H, 7H, 7H, 9S, 7H, 9S, 9S, 7S, 7H, 9C, 7S, 7S, 7S, 7S, 7S, 7H, 9C, 9C, 9C, 7H, 7H, 7H, 9C, 7S, 7S, 4C, 7S, 9C, 9C, 9C, 7S, 9S, 9C, 4C, 4C, 7S, 7S, 4C, 7S, 7S, 9C, 7S, 4C, 7S, 9S, 9C, 4C, 9C, 4C, 4C, 4C, 9S, 9S, 9S, 4C, 7H, 9S, 4C, 7H, 9C, 9C, 7H, 9S, 9S, 4C, 9S, 7H, 7H, 7S, 9S, 9S, 7H, 7H, 7S, 7S, 9S, 9S, 7H, 9S, 7H, 9S, 7H, 7H, 9C, 7S, 9C, 7S, 7S, 7H, 4C, 9S, 9S, 9C, 4C, 7S, 9C, 7S, 7S, 7S, 7H, 9C, 7S, 9S, 9S, 7S, 7S, 7H, 9C, 9C, 4C, 7H, 7H, 9C, 7S, 7S, 7S, 7H, 9C, 9C, 9C, 7H, 7S, 7S, 9C, 4C, 9C, 7S, 9S, 7S, 4C, 7S, 9S, 7S, 9C, 9S, 7S, 7S, 7S, 9C, 4C, 9C, 4C, 9C, 9C, 9C, 9C, 9C, 9C, 9C, 7S, 9C, 7H, 9S, 9C, 9C, 7S, 7S, 7S, 4C, 7S, 7S, 4C, 4C, 4C, 7H, 7H, 7H, 4C, 4C, 4C, 4C, 9C, 4C, 9C, 9S, 9C, 7S, 7H, 4C, 7H, 9S, 9C, 7S, 4C, 4C, 7S, 4C, 9C, 4C, 9C, 9S, 9C, 9S, 7H, 9C, 7S, 4C, 7H, 4C, 9C, 7H, 9S, 9C, 7H, 9S, 7H, 9S, 9S, 9S, 4C, 7S, 9C, 9S, 4C, 9C, 9S, 9S, 7H, 7H, 7H, 4C, 9S, 4C, 9C, 9S, 9S, 4C, 9S, 9S, 9S, 7H, 9C, 7H, 9S, 9S, 9C, 9S, 9C, 7H, 7H, 9S, 9S, 9C, 9C, 9S, 7H, 7H, 4C, 7H, 9S, 7H, 4C, 9S, 9S, 7H, 9S, 7H
+[2025-05-18 13:57:00]
+7S - Dealer
+9C - Dealer
+7H - Player
+4C - Dealer
+9S - Player
+9C - Dealer
+10D - Dealer
+9S - Player
+7H - Player
+9D - Dealer
+7S - Dealer
+7C - Dealer
+7C - Dealer
+4C - Dealer
+
+[2025-05-18 13:57:00]
+9S - Player
+9C - Dealer
+9C - Dealer
+7H - Player
+7S - Dealer
+7S - Dealer
+10D - Dealer
+9S - Player
+7H - Player
+9D - Dealer
+4C - Dealer
+4C - Dealer
+
+[2025-05-18 13:57:00]
+9S - Player
+7H - Player
+9S - Player
+9C - Dealer
+9C - Dealer
+10D - Dealer
+7S - Dealer
+9D - Dealer
+4C - Dealer
+7H - Player
+4C - Dealer
+7S - Dealer
+
+[2025-05-18 13:57:00]
+7H - Player
+9C - Dealer
+9C - Dealer
+9S - Player
+4C - Dealer
+10D - Dealer
+9S - Player
+10D - Dealer
+7D - Player
+7S - Dealer
+7S - Dealer
+7C - Dealer
+
+[2025-05-18 13:57:00]
+9S - Player
+7H - Player
+9C - Dealer
+9S - Player
+7H - Player
+7S - Dealer
+4C - Dealer
+9C - Dealer
+9D - Dealer
+7S - Dealer
+9D - Dealer
+10D - Dealer
+4C - Dealer
+
+[2025-05-18 13:57:00]
+7H - Player
+10D - Dealer
+9S - Player
+9C - Dealer
+7H - Player
+9S - Player
+7S - Dealer
+9C - Dealer
+7S - Dealer
+4C - Dealer
+9D - Dealer
+7C - Dealer
+
+[2025-05-18 13:57:00]
+9S - Player
+7H - Player
+9S - Player
+9C - Dealer
+7S - Dealer
+4C - Dealer
+7H - Player
+9D - Dealer
+7S - Dealer
+7C - Dealer
+9C - Dealer
+
+[2025-05-18 13:57:01]
+9S - Player
+10D - Dealer
+9C - Dealer
+9C - Dealer
+7H - Player
+9S - Player
+7H - Player
+7S - Dealer
+7S - Dealer
+4C - Dealer
+10D - Dealer
+7D - Dealer
+
+[2025-05-18 13:57:01]
+9S - Player
+7H - Player
+7H - Player
+7S - Dealer
+9S - Player
+4C - Dealer
+4C - Dealer
+9C - Dealer
+9C - Dealer
+9D - Dealer
+7S - Dealer
+
+[2025-05-18 13:57:01]
+7H - Player
+9C - Dealer
+9S - Player
+7S - Dealer
+10D - Dealer
+9C - Dealer
+7S - Dealer
+7H - Player
+9C - Player
+5C - Dealer
+9S - Player
+7D - Dealer
+
+[2025-05-18 13:57:01]
+7H - Player
+10D - Dealer
+7S - Dealer
+9C - Dealer
+9S - Player
+7S - Dealer
+9C - Player
+7D - Dealer
+5C - Dealer
+4C - Dealer
+9S - Player
+9C - Dealer
+7H - Player
+
+[2025-05-18 13:57:01]
+10D - Dealer
+9S - Player
+7H - Player
+7S - Dealer
+9S - Player
+9C - Dealer
+7H - Player
+9C - Dealer
+5C - Dealer
+7S - Dealer
+7D - Dealer
+8C - Dealer
+
+[2025-05-18 13:57:01]
+9C - Dealer
+9S - Player
+7H - Player
+7S - Dealer
+9S - Player
+9C - Dealer
+7S - Dealer
+7D - Dealer
+7H - Player
+4C - Dealer
+5C - Dealer
+9D - Dealer
+
+[2025-05-18 13:57:01]
+7H - Player
+9S - Player
+7S - Dealer
+9S - Player
+7S - Dealer
+10D - Dealer
+9C - Dealer
+4C - Dealer
+9C - Dealer
+7H - Player
+7D - Dealer
+
+[2025-05-18 13:57:01]
+7S - Dealer
+10D - Dealer
+9S - Player
+9C - Dealer
+7H - Player
+4C - Dealer
+9S - Player
+9C - Dealer
+7D - Dealer
+4C - Dealer
+7S - Dealer
+JH - Player
+
+[2025-05-18 13:57:01]
+9C - Dealer
+7H - Player
+9C - Dealer
+7D - Dealer
+7S - Dealer
+7S - Dealer
+9S - Player
+4C - Dealer
+9S - Player
+9D - Dealer
+7C - Dealer
+
+[2025-05-18 13:57:01]
+7H - Player
+9C - Dealer
+9S - Player
+7S - Dealer
+7S - Dealer
+9C - Dealer
+9S - Player
+7D - Dealer
+7H - Player
+9D - Dealer
+7C - Dealer
+
+[2025-05-18 13:57:02]
+9C - Dealer
+7S - Dealer
+7H - Player
+9C - Dealer
+9S - Player
+10D - Dealer
+9S - Player
+4C - Dealer
+7H - Player
+7S - Dealer
+7D - Dealer
+4C - Dealer
+
+[2025-05-18 13:57:02]
+7H - Player
+7S - Dealer
+10D - Dealer
+9C - Dealer
+7H - Player
+9C - Dealer
+7S - Dealer
+9S - Player
+4C - Dealer
+4C - Dealer
+9S - Player
+10D - Dealer
+
+[2025-05-18 13:57:02]
+10D - Dealer
+9S - Player
+7S - Dealer
+9C - Dealer
+4C - Dealer
+7H - Player
+9S - Player
+9C - Dealer
+7H - Player
+7S - Dealer
+10D - Dealer
+4C - Dealer
+4S - Dealer
+
+[2025-05-18 13:57:02]
+9C - Dealer
+9C - Dealer
+9S - Player
+9S - Player
+7H - Player
+7S - Dealer
+7S - Dealer
+4C - Dealer
+7H - Player
+4C - Dealer
+7D - Dealer
+7D - Dealer
+10D - Dealer
+
+[2025-05-18 13:57:02]
+7H - Player
+9C - Dealer
+9C - Dealer
+10D - Dealer
+7S - Dealer
+9S - Player
+9S - Player
+7S - Dealer
+7H - Player
+4C - Dealer
+7D - Player
+4C - Dealer
+10D - Dealer
+
+[2025-05-18 13:57:02]
+10D - Dealer
+9C - Dealer
+9S - Player
+7S - Dealer
+7H - Player
+7S - Dealer
+9S - Player
+7H - Player
+9C - Dealer
+7D - Dealer
+4C - Dealer
+4C - Dealer
+4S - Dealer
+
+[2025-05-18 13:57:02]
+7H - Player
+9C - Dealer
+7S - Dealer
+9C - Dealer
+7H - Player
+9S - Player
+9S - Player
+5C - Dealer
+7C - Dealer
+10D - Dealer
+9D - Dealer
+
+[2025-05-18 13:57:02]
+7S - Dealer
+7S - Dealer
+7H - Player
+10D - Dealer
+9S - Player
+7H - Player
+9S - Player
+7D - Dealer
+9C - Dealer
+9C - Dealer
+4C - Dealer
+4C - Dealer
+
+[2025-05-18 13:57:02]
+9C - Dealer
+7H - Player
+7S - Dealer
+9S - Player
+7H - Player
+9S - Player
+7S - Dealer
+4C - Dealer
+9C - Dealer
+5C - Dealer
+9D - Dealer
+10D - Dealer
+
+[2025-05-18 13:57:02]
+7H - Player
+9S - Player
+9C - Dealer
+7H - Player
+10D - Dealer
+7S - Dealer
+9C - Dealer
+9S - Player
+4C - Dealer
+7D - Dealer
+7S - Dealer
+
+[2025-05-18 13:57:03]
+9C - Dealer
+10D - Dealer
+9S - Player
+7H - Player
+7H - Player
+10D - Dealer
+7S - Dealer
+9S - Player
+9C - Dealer
+5C - Dealer
+7S - Dealer
+5C - Dealer
+4C - Dealer
+
+[2025-05-18 13:57:03]
+7S - Dealer
+9C - Dealer
+7H - Player
+9C - Dealer
+9S - Player
+10D - Dealer
+7H - Player
+7S - Dealer
+9S - Player
+7D - Dealer
+7C - Dealer
+4C - Dealer
+
+[2025-05-18 13:57:03]
+9C - Dealer
+7H - Player
+7S - Dealer
+9S - Player
+7H - Player
+7S - Dealer
+9S - Player
+9C - Dealer
+4C - Dealer
+7D - Dealer
+7D - Dealer
+5C - Dealer
+
+[2025-05-18 13:57:03]
+7H - Player
+9C - Dealer
+9S - Player
+7H - Player
+7S - Dealer
+9S - Player
+4C - Dealer
+7D - Dealer
+9C - Dealer
+7S - Dealer
+10D - Dealer
+4C - Dealer
+
+[2025-05-18 13:57:03]
+7S - Dealer
+9S - Player
+9C - Dealer
+7S - Dealer
+7H - Player
+7D - Dealer
+7H - Player
+9S - Player
+4C - Dealer
+9C - Dealer
+7D - Dealer
+
+Confirmed cards: 7H, 7H, 9S, 7H, 9S, 9S, 7H, 7H, 9S, 9S, 9C, 7S, 7S, 7S, 7H, 7H, 7H, 7H, 7H, 7H, 7S, 7H, 7H, 7H, 7H, 9C, 7S, 7S, 9C, 9C, 7S, 7H, 9C, 7S, 9C, 9C, 7S, 7S, 9C, 9C, 7S, 7S, 9C, 9C, 7S, 7S, 9C, 7S, 9S, 9C, 9C, 9C, 9C, 9S, 9S, 9S, 7S, 7S, 9S, 9C, 7S, 9C, 9C, 7S, 9C, 9C, 9C, 9S, 9S, 9S, 7H, 9C, 7H, 7H, 7S, 9S, 7H, 9C, 7H, 9S, 9C, 7H, 7S, 9S, 9S, 9S, 9S, 7H, 7S, 9S, 9S, 7H, 7H, 7S, 7S, 9S, 7H, 9S, 9S, 7H, 7H, 9S, 7S, 7H, 9C, 7S, 7S, 9C, 7H, 7H, 7S, 7H, 7S, 7H, 7S, 7S, 7S, 9C, 9C, 7H, 9C, 9C, 7H, 7S, 9C, 7S, 9C, 9C, 7S, 7H, 9C, 9C, 9C, 7S, 9C, 7S, 7H, 9C, 7S, 9C, 7S, 7H, 9S, 9C, 9C, 7S, 7S, 7S, 7S, 7S, 7S, 7S, 9C, 9C, 9S, 9S, 9C, 7S, 7S, 7S, 9C, 9S, 9C, 7S, 9C, 7S, 7S, 9S, 9S, 7S, 7S, 9C, 9C, 9C, 9S, 9S, 9C, 7S, 7S, 7S, 9S, 9S, 7H, 9C, 7H, 9S, 9S, 9S, 9C, 7S, 7S, 7H, 9S, 7H, 9C, 7S, 9C, 7S, 9C, 9C, 7S, 9S, 9C, 7H, 7H, 7H, 9S, 9C, 9C, 9S, 9S, 9S, 9S, 9S, 7H, 7H, 9S, 9C, 9C, 9S, 7H, 9S, 7H, 7H, 9C, 7S, 9S, 9S, 9C, 7H, 9S, 9S, 7H, 7H, 9S, 7H, 7H, 9S, 9S, 7H, 9S, 7H, 9C, 9S, 9S, 9S, 7H, 9S, 7H, 7H, 7H, 9S, 9S, 9S
+[2025-05-18 13:57:03]
+7S - Dealer
+7D - Dealer
+7H - Player
+9S - Player
+7S - Dealer
+7H - Player
+9C - Dealer
+9S - Player
+10D - Dealer
+4C - Dealer
+4C - Dealer
+
+[2025-05-18 13:57:03]
+7S - Dealer
+7D - Dealer
+9S - Player
+7H - Player
+10D - Dealer
+7S - Dealer
+7H - Player
+4C - Dealer
+9S - Player
+9C - Dealer
+4C - Dealer
+
+[2025-05-18 13:57:03]
+7S - Dealer
+9C - Dealer
+9S - Player
+7H - Player
+7S - Dealer
+7D - Dealer
+7H - Player
+9S - Player
+9C - Dealer
+4C - Dealer
+7D - Dealer
+
+[2025-05-18 13:57:03]
+7H - Player
+7S - Dealer
+7H - Player
+7D - Dealer
+9C - Dealer
+9S - Player
+9S - Player
+9C - Dealer
+7S - Dealer
+4C - Dealer
+9D - Dealer
+4C - Dealer
+7C - Dealer
+
+[2025-05-18 13:57:03]
+9C - Dealer
+7S - Dealer
+9S - Player
+7H - Player
+7S - Dealer
+7H - Player
+9S - Player
+7D - Dealer
+9C - Dealer
+7C - Dealer
+4C - Dealer
+9D - Dealer
+4C - Dealer
+5C - Dealer
+
+[2025-05-18 13:57:04]
+7H - Player
+7S - Dealer
+9S - Player
+7H - Player
+9S - Player
+9C - Dealer
+9C - Dealer
+7S - Dealer
+4C - Dealer
+7D - Dealer
+7D - Dealer
+5C - Dealer
+6C - Dealer
+
+[2025-05-18 13:57:04]
+7S - Dealer
+7H - Player
+9C - Dealer
+7S - Dealer
+7H - Player
+9S - Player
+9C - Dealer
+9S - Player
+4C - Dealer
+10D - Dealer
+10D - Dealer
+5C - Dealer
+
+[2025-05-18 13:57:04]
+9S - Player
+9C - Dealer
+7S - Dealer
+7H - Player
+7S - Dealer
+9S - Player
+9C - Dealer
+4C - Dealer
+7D - Dealer
+7H - Player
+9D - Dealer
+10D - Dealer
+7C - Dealer
+
+[2025-05-18 13:57:04]
+9S - Player
+9C - Dealer
+7H - Player
+9C - Dealer
+4C - Dealer
+9S - Player
+7S - Dealer
+7S - Dealer
+7H - Player
+9D - Dealer
+4C - Dealer
+7D - Dealer
+
+[2025-05-18 13:57:04]
+9C - Dealer
+9C - Dealer
+7S - Dealer
+9S - Player
+7H - Player
+9S - Player
+7S - Dealer
+7H - Player
+10D - Dealer
+10D - Dealer
+7D - Dealer
+7C - Dealer
+
+[2025-05-18 13:57:04]
+9C - Dealer
+9C - Dealer
+9S - Player
+7S - Dealer
+9S - Player
+7H - Player
+7S - Dealer
+4C - Dealer
+7H - Player
+9D - Dealer
+5C - Dealer
+
+[2025-05-18 13:57:04]
+9C - Dealer
+9C - Dealer
+9S - Player
+9S - Player
+7S - Dealer
+7H - Player
+7H - Player
+10D - Dealer
+7S - Dealer
+10D - Dealer
+4C - Dealer
+4C - Dealer
+
+[2025-05-18 13:57:04]
+9C - Dealer
+9C - Dealer
+7S - Dealer
+9S - Player
+7H - Player
+9S - Player
+7H - Player
+7D - Dealer
+5C - Dealer
+4C - Dealer
+10D - Dealer
+
+[2025-05-18 13:57:04]
+9S - Player
+9C - Dealer
+9C - Dealer
+7H - Player
+9S - Player
+9D - Dealer
+7S - Dealer
+7S - Dealer
+10D - Dealer
+7H - Player
+5C - Dealer
+5C - Dealer
+
+[2025-05-18 13:57:04]
+9C - Dealer
+9C - Dealer
+9S - Player
+7S - Dealer
+9S - Player
+7H - Player
+7S - Dealer
+10D - Dealer
+7H - Player
+9D - Dealer
+4C - Dealer
+4C - Dealer
+
+[2025-05-18 13:57:05]
+9S - Player
+9C - Dealer
+9S - Player
+7S - Dealer
+9C - Dealer
+7H - Player
+7D - Dealer
+10D - Dealer
+7S - Dealer
+7H - Player
+4C - Dealer
+
+[2025-05-18 13:57:05]
+7S - Dealer
+10D - Dealer
+9C - Dealer
+9S - Player
+7H - Player
+9S - Player
+9D - Dealer
+9C - Dealer
+4C - Dealer
+4C - Dealer
+7H - Player
+7C - Dealer
+7C - Dealer
+JH - Player
+
+[2025-05-18 13:57:05]
+9S - Player
+7H - Player
+10D - Dealer
+9C - Dealer
+9C - Dealer
+9S - Player
+7S - Dealer
+5C - Dealer
+7H - Player
+7D - Dealer
+4C - Dealer
+7S - Dealer
+
+[2025-05-18 13:57:05]
+10D - Dealer
+9S - Player
+9S - Player
+9C - Dealer
+7S - Dealer
+9C - Dealer
+4C - Dealer
+7H - Player
+4C - Dealer
+7S - Dealer
+7D - Player
+10D - Dealer
+
+[2025-05-18 13:57:05]
+9S - Player
+7H - Player
+9C - Dealer
+7D - Player
+9C - Dealer
+7S - Dealer
+9D - Dealer
+9S - Player
+7S - Dealer
+7C - Dealer
+4C - Dealer
+7D - Dealer
+7C - Dealer
+
+[2025-05-18 13:57:05]
+10D - Dealer
+9S - Player
+9C - Dealer
+9C - Dealer
+7S - Dealer
+9S - Player
+10D - Dealer
+7S - Dealer
+7H - Player
+7H - Player
+7D - Player
+4C - Dealer
+
+[2025-05-18 13:57:05]
+9S - Player
+9C - Dealer
+9D - Dealer
+7H - Player
+9C - Dealer
+7S - Dealer
+9S - Player
+7C - Dealer
+7S - Dealer
+7H - Player
+7D - Dealer
+7C - Dealer
+
+[2025-05-18 13:57:05]
+9C - Dealer
+7H - Player
+7S - Dealer
+9S - Player
+9C - Dealer
+10D - Dealer
+9S - Player
+7D - Dealer
+7S - Dealer
+7H - Player
+4C - Dealer
+4C - Dealer
+
+[2025-05-18 13:57:06]
+9S - Player
+10D - Dealer
+7H - Player
+7S - Dealer
+9C - Dealer
+7H - Player
+9S - Player
+4C - Dealer
+9C - Dealer
+7S - Dealer
+10D - Dealer
+4C - Dealer
+
+[2025-05-18 13:57:06]
+9S - Player
+10D - Dealer
+10D - Dealer
+9S - Player
+7S - Dealer
+9C - Dealer
+7H - Player
+9C - Dealer
+7D - Player
+7S - Dealer
+7C - Dealer
+4C - Dealer
+
+[2025-05-18 13:57:06]
+10D - Dealer
+9S - Player
+7H - Player
+9C - Dealer
+7H - Player
+7S - Dealer
+7S - Dealer
+9S - Player
+4C - Dealer
+9C - Dealer
+9D - Dealer
+5C - Dealer
+
+[2025-05-18 13:57:06]
+7H - Player
+9C - Dealer
+7S - Dealer
+9S - Player
+9C - Dealer
+7S - Dealer
+9S - Player
+4C - Dealer
+7H - Player
+10D - Dealer
+9D - Dealer
+4C - Dealer
+
+[2025-05-18 13:57:06]
+10D - Dealer
+7H - Player
+9S - Player
+9S - Player
+4C - Dealer
+7S - Dealer
+7S - Dealer
+7H - Player
+9C - Dealer
+10D - Dealer
+9C - Dealer
+7C - Dealer
+4C - Dealer
+
+Confirmed cards: 7H, 9S, 9S, 9S, 7H, 9S, 9S, 9S, 9S, 7H, 7S, 7S, 9S, 7S, 7S, 7S, 7H, 9C, 7S, 7S, 7H, 9C, 7S, 9C, 9C, 9C, 7S, 7S, 9C, 9C, 9C, 9C, 9C, 9C, 9C, 9C, 9C, 7S, 9S, 7S, 7S, 9S, 9C, 7S, 9C, 9C, 7H, 9C, 9C, 9S, 9C, 7H, 9S, 9C, 9C, 7H, 9S, 9S, 9S, 7H, 7H, 9S, 7S, 7S, 7S, 9S, 7H, 7H, 9S, 7S, 7S, 7S, 9C, 9S, 9S, 9S, 9S, 9S, 9C, 7S, 7S, 7H, 7H, 9S, 7H, 9C, 7S, 7S, 7H, 7H, 7H, 7S, 7S, 7H, 7H, 7S, 7S, 7S, 9S, 9C, 7S, 7S, 7S, 7S, 9C, 7S, 7H, 7S, 9C, 9S, 9S, 9S, 7S, 9C, 7S, 7S, 9C, 9C, 9S, 9S, 7S, 7S, 7S, 9C, 7H, 9C, 9S, 9S, 9C, 7S, 7S, 7H, 7H, 9S, 9C, 7S, 7S, 7S, 7S, 7S, 7H, 7H, 7S, 7S, 9C, 9C, 9S, 9S, 7H, 9S, 9C, 9C, 9C, 9C, 9C, 9C, 9S, 9C, 7S, 9S, 9C, 7H, 9S, 9S, 9S, 9S, 9C, 7S, 7H, 9S, 9S, 9C, 7H, 9C, 9S, 9C, 9C, 9C, 9S, 7H, 9S, 7H, 7H, 9C, 7H, 9S, 9S, 9S, 7S, 7S, 7H, 9S, 7H, 7H, 7H, 7H, 9C, 7H, 9S, 7H, 7H, 9S, 7H, 7H, 7H, 7H, 7H, 7H, 9S, 9S, 7H, 7H, 9S, 7H, 9C, 7H, 7H
+[2025-05-18 13:57:06]
+9C - Player
+7H - Player
+7S - Dealer
+10D - Dealer
+9C - Dealer
+9S - Player
+7S - Player
+10D - Player
+9S - Player
+7C - Player
+5C - Dealer
+4C - Dealer
+
+[2025-05-18 13:57:06]
+9S - Player
+7S - Dealer
+9C - Player
+10D - Player
+7S - Player
+9C - Player
+7C - Dealer
+7H - Player
+4C - Player
+7D - Dealer
+
+[2025-05-18 13:57:06]
+7S - Dealer
+7H - Player
+10D - Player
+9C - Player
+9C - Player
+7C - Player
+7S - Player
+9C - Player
+4C - Dealer
+9D - Player
+10D - Player
+
+[2025-05-18 13:57:07]
+9S - Player
+10D - Player
+7H - Player
+9C - Player
+9C - Player
+7S - Dealer
+7S - Player
+4C - Player
+10D - Player
+9C - Player
+7S - Player
+
+[2025-05-18 13:57:07]
+10D - Player
+4C - Player
+4C - Player
+10D - Player
+7S - Dealer
+9C - Player
+7S - Player
+9C - Player
+9S - Player
+9C - Player
+
+[2025-05-18 13:57:07]
+10C - Player
 

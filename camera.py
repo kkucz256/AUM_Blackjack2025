@@ -9,12 +9,7 @@ model = YOLO("content/best_12_04.pt")
 
 last_seen_cards = set()
 detected_time = None
-screenshot_taken = False
 log_entries = []
-
-output_folder = "screenshots"
-os.makedirs(output_folder, exist_ok=True)
-
 log_file = "detected_cards_log.txt"
 
 player_deck = []
@@ -26,17 +21,17 @@ new_cards_detected = False
 detection_buffer = []
 detection_start_time = None
 MAX_BUFFER_SIZE = 90
-CONFIRMATION_THRESHOLD = 1.5
+CONFIRMATION_THRESHOLD = 0.9
 LAST_SAVE_TIME = 0
 SAVE_INTERVAL = 2
 
-card_owner = {}  # Map: value -> is_dealer (True/False)
+card_owner = {} 
 
 class CardInfo:
     def __init__(self, raw_name, y_center, line_y):
-        self.value = raw_name.lower()  # Keep full card, e.g., "8h", "8d"
-        self.rank = re.sub(r'[hdsc]', '', self.value)  # "8"
-        self.suit = re.sub(r'[^hdsc]', '', self.value)  # "h"
+        self.value = raw_name.lower() 
+        self.rank = re.sub(r'[hdsc]', '', self.value)  
+        self.suit = re.sub(r'[^hdsc]', '', self.value) 
         self.is_dealer = y_center < line_y
 
     def __hash__(self):
@@ -73,11 +68,11 @@ class CardsDetected:
         return "\n".join(lines) + "\n\n"
 
 def detect_realtime():
-    global last_seen_cards, detected_time, screenshot_taken, new_cards_detected, LAST_SAVE_TIME, SAVE_INTERVAL
+    global last_seen_cards, detected_time, new_cards_detected, LAST_SAVE_TIME, SAVE_INTERVAL
     global detection_buffer, detection_start_time, player_deck, dealer_deck, card_owner
 
-    cap = cv2.VideoCapture(0)
 
+    cap = cv2.VideoCapture(0)
     if not cap.isOpened():
         print("Nie udało się otworzyć kamery")
         return
@@ -104,7 +99,6 @@ def detect_realtime():
             if current_cards and current_cards != last_seen_cards:
                 last_seen_cards = current_cards
                 detected_time = time.time()
-                screenshot_taken = False
                 log_entries.append(detected.to_log_string())
                 print(f"\nNew cards detected:\n{detected}")
 
@@ -148,26 +142,17 @@ def detect_realtime():
                                 dealer_deck.append(card.value)
                                 dealer_seen.add(card.value)
                                 new_cards_detected = True
-                                print(f"🂠 Added {card.value.upper()} to Dealer deck (locked to Dealer)")
+                                print(f"Added {card.value.upper()} to Dealer deck (locked to Dealer)")
                         else:
                             if card.value not in player_seen:
                                 player_deck.append(card.value)
                                 player_seen.add(card.value)
                                 new_cards_detected = True
-                                print(f"🂡 Added {card.value.upper()} to Player deck (locked to Player)")
+                                print(f"Added {card.value.upper()} to Player deck (locked to Player)")
 
                 detection_buffer.clear()
                 detection_start_time = None
-
-            if detected_time and not screenshot_taken:
-                if time.time() - detected_time >= 2:
-                    timestamp = time.strftime("%Y%m%d_%H%M%S")
-                    filename = f"{'_'.join(sorted([c.value for c in current_cards]))}_{timestamp}.jpg"
-                    filepath = os.path.join(output_folder, filename)
-                    cv2.imwrite(filepath, annotated_frame)
-                    screenshot_taken = True
-                    print(f"Screenshot saved as: {filepath}")
-
+                
             cv2.imshow("YOLO Real-Time Detection", annotated_frame)
 
         current_time = time.time()
@@ -176,7 +161,7 @@ def detect_realtime():
                 f.write(f"D:{', '.join(dealer_deck)}\n")
                 f.write(f"P:{', '.join(player_deck)}\n")
             LAST_SAVE_TIME = current_time
-            print("💾 Decks updated in 'final_decks.txt'")
+            print("Decks updated in 'final_decks.txt'")
 
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
